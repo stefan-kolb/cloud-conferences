@@ -1,0 +1,87 @@
+- name: Conference on Cloud Computing
+  abbrv: CLOUD
+  url: http://www.thecloudcomputing.org/2015/
+  edition: 8
+  organization: IEEE
+  deadline: "2016-01-31"
+  date_from: "2016-06-26"
+  date_to: "2016-07-03"
+  location: "San Francisco, CA, USA"
+  acceptance: [19,17,17,18,15]
+  limit: 8
+
+- name: Conference on Cloud Computing and Services Science
+  abbrv: CLOSER
+  url: http://closer.scitevents.org/
+  edition: 6
+  organization: ""
+  deadline: "2015-10-27"
+  date_from: "2016-04-23"
+  date_to: "2016-04-25"
+  location: "Rome, Italy"
+  acceptance: [42]
+  limit: 13
+
+- name: Conference on Cloud Computing Technology and Science
+  abbrv: CloudCom
+  url: http://2015.cloudcom.org/
+  edition: 7
+  deadline: "2016-07-08"
+  organization: IEEE
+  acceptance: [18, 18, 18, 24, 25]
+  location: Vancouver
+  limit: 8
+
+- name: Symposium on Cluster, Cloud, and Grid Computing
+  abbrv: CCGrid
+  edition: 16
+  deadline: "2015-10-30"
+  date_from: "2016-05-16"
+  date_to: "2016-05-19"
+  organization: IEEE/ACM
+  location: Cartagena, Columbia
+  acceptance: [26, 19, 22, 28, 29]
+  limit: 10
+
+- name: Conference on Cloud Engineering
+  abbrv: IC2E
+  url: http://conferences.computer.org/IC2E/2016/
+  edition: 4
+  organization: IEEE
+  deadline: "2015-09-05"
+  date_from: "2016-04-04"
+  date_to: "2016-04-08"
+  location: Berlin, Germany
+  limit: 10
+
+- name: Symposium on Cloud Computing
+  abbrv: SoCC
+  url: http://acmsocc.github.io/2015/
+  edition: 6
+  deadline: "2015-04-24"
+  date_from: "2015-08-27"
+  date_to: "2015-08-29"
+  organization: ACM
+  location: Kohala Coast, Hawaii
+  limit: 12
+
+- name: Conference on Utility and Cloud Computing
+  abbrv: UCC
+  edition: 8
+  url: http://cyprusconferences.org/ucc2015/
+  deadline: "2015-07-31"
+  date_from: "2015-12-07"
+  date_to: "2015-12-10"
+  organization: IEEE/ACM
+  location: Limassol, Cyprus
+
+- name: Conference on Cloud Networking
+  abbrv: CloudNet
+  url: http://acmsocc.github.io/2015/
+  edition: 4
+  deadline: "2015-05-19"
+  date_from: "2015-10-05"
+  date_to: "2015-10-07"
+  organization: IEEE
+  location: Niagara Falls, Canada
+  limit: 0
