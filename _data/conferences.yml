@@ -7,7 +7,7 @@
   date_from: "2016-06-26"
   date_to: "2016-07-03"
   location: "San Francisco, CA, USA"
-  acceptance: [19,17,17,18,15]
+  acceptance: [15, 18, 18, 18, 18]
   limit: 8
 
 - name: Conference on Cloud Computing and Services Science
