@@ -7,7 +7,12 @@
   date_from: "2016-06-26"
   date_to: "2016-07-03"
   location: "San Francisco, CA, USA"
-  acceptance: [15, 18, 18, 18, 18]
+  acceptance:
+    - 2015: 15
+    - 2014: 19
+    - 2013: 17
+    - 2012: 17
+    - 2011: 18
   limit: 8
 
 - name: Conference on Cloud Computing and Services Science
@@ -19,17 +24,24 @@
   date_from: "2016-04-23"
   date_to: "2016-04-25"
   location: "Rome, Italy"
-  acceptance: [42]
+  acceptance: [14, 17, 18, 19, 11]
   limit: 13
 
 - name: Conference on Cloud Computing Technology and Science
   abbrv: CloudCom
   url: http://2015.cloudcom.org/
   edition: 7
-  deadline: "2016-07-08"
+  date_from: "2015-11-30"
+  date_to: "2015-12-03"
+  deadline: "2016-06-15"
   organization: IEEE
-  acceptance: [18, 18, 18, 24, 25]
-  location: Vancouver
+  acceptance:
+    - 2015: 0
+    - 2014: 18
+    - 2013: 18
+    - 2012: 18
+    - 2011: 24
+  location: Vancouver, Canada
   limit: 8
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
@@ -39,6 +51,12 @@
   date_from: "2016-05-16"
   date_to: "2016-05-19"
   organization: IEEE/ACM
+  acceptance:
+    - 2015: 26
+    - 2014: 19
+    - 2013: 22
+    - 2012: 28
+    - 2011: 29
   location: Cartagena, Columbia
   acceptance: [26, 19, 22, 28, 29]
   limit: 10
@@ -83,5 +101,10 @@
   date_from: "2015-10-05"
   date_to: "2015-10-07"
   organization: IEEE
+  acceptance:
+    - 2015: 0
+    - 2014: 0
+    - 2013: 28
+    - 2012: 40
   location: Niagara Falls, Canada
   limit: 0
