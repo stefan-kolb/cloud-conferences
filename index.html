@@ -4,18 +4,25 @@ title: Cloud Computing Conferences
 ---
 {% assign conferences = site.data.conferences | sort: "name" %}
 
+<h2>Next Deadlines:</h2>
 {% assign deadlines = site.data.conferences | sort: "deadline" %}
 {% for next in deadlines %}
 {% assign d1 = next.deadline | date: "%Y/%m/%d" %}
 {% assign d2 = 'now' | date: "%Y/%m/%d" %}
-{% if d1  >= d2 %}
-<h3>Next Deadline: <a href="#{{ next.abbrv }}">{{ next.name }} ({{ next.abbrv }})</a></h2>
-<div id="clock" data-time="{{ next.deadline | date: "%Y/%m/%d" }}"></div>
+{% if d1 >= d2 %}
+<div>
+  <div class="time">
+    <span class="count curr top" data-countdown="{{ next.deadline | date: "%Y/%m/%d" }}"></span>
+    <span class="count curr bottom" data-countdown="{{ next.deadline | date: "%Y/%m/%d" }}"></span>
+    <span class="label">days</span>
+  </div>
+  <a class="conference" href="#{{ next.abbrv }}">{{ next.name }} ({{ next.abbrv }})</a>
+</div>
 {% break %}
 {% endif %}
 {% endfor %}
 
-<h3>TOC Conferences</h3>
+<h2>Conference List</h2>
 <ul>
 {% for conference in conferences %}
   <li><a href="#{{ conference.abbrv }}">{{ conference.name }} ({{ conference.abbrv }})</a></li>
@@ -23,30 +30,26 @@ title: Cloud Computing Conferences
 </ul>
 
 {% for conference in conferences %}
-<h3 id="{{ conference.abbrv }}"><a href="{{ conference.url }}" target="_blank">{{ conference.name }} ({{ conference.abbrv }})</a></h3>
-{% if conference.date_from %}
-{{ conference.date_from | date_to_string }} - {{ conference.date_to | date_to_string }}, <em>{{ conference.location }}</em>
-{% endif %}
+<h2 id="{{ conference.abbrv }}"><a href="{{ conference.url }}" target="_blank">{{ conference.name }} ({{ conference.abbrv }})</a></h2>
+{{ conference.date_from | date_to_string }} - {{ conference.date_to | date_to_string }}, <em><a href="http://maps.google.com/?q={{ conference.location }}" target="_blank">{{ conference.location }}</a></em>
 <h4>Reputation</h4>
-{% assign d = conference.edition %}
+<p>{% assign d = conference.edition %}
 {% case d %}
   {% when "1" or "21" or "31" %}{{ d }}st
   {% when "2" or "22" %}{{ d }}nd
   {% when "3" or "23" %}{{ d }}rd
   {% else %}{{ d }}th
-{% endcase %} edition,
-{{ conference.organization }} sponsored</p>
-5 year acceptance rates:
-{% if conference.acceptance %}
-{{ conference.acceptance | array_to_sentence_string }} %
-{% endif %}
+{% endcase %} edition
+{% if conference.organization %}
+, {{ conference.organization }} sponsored
+{% endif %}</p>
 <h4>Call for Papers</h4>
 <p>Deadline:
   {% if conference.deadline %}
-  {{ conference.deadline | date_to_string }} (<span data-countdown="{{ conference.deadline | date: "%Y/%m/%d" }}"></span>)
+  {{ conference.deadline | date_to_string }} (<span data-countdown="{{ conference.deadline | date: "%Y/%m/%d" }}"></span> days)
   {% endif %}
 </p>
-<p>Page limit: {{ conference.limit }}</p>
+<p>Page limit: {{ conference.page_limit }}</p>
 <hr>
 {% endfor %}
 
@@ -55,16 +58,8 @@ $(document).ready(function() {
   $('[data-countdown]').each(function() {
     var $this = $(this), finalDate = $(this).data('countdown');
     $this.countdown(finalDate, function(event) {
-      $this.html(event.strftime('%-D days'));
+      $this.html(event.strftime('%-D'));
     });
-  });
-
-  var date = new Date($('#clock').data('time'));
-  var now = new Date();
-  var diff = (date.getTime()/1000) - (now.getTime()/1000);
-
-  $('#clock').FlipClock(diff, {
-    clockFace: 'DailyCounter',
   });
 });
 </script>

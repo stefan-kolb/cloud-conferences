@@ -13,19 +13,18 @@
     - 2013: 17
     - 2012: 17
     - 2011: 18
-  limit: 8
+  page_limit: 8
 
 - name: Conference on Cloud Computing and Services Science
   abbrv: CLOSER
   url: http://closer.scitevents.org/
   edition: 6
-  organization: ""
   deadline: "2015-10-27"
   date_from: "2016-04-23"
   date_to: "2016-04-25"
   location: "Rome, Italy"
   acceptance: [14, 17, 18, 19, 11]
-  limit: 13
+  page_limit: 13
 
 - name: Conference on Cloud Computing Technology and Science
   abbrv: CloudCom
@@ -42,7 +41,7 @@
     - 2012: 18
     - 2011: 24
   location: Vancouver, Canada
-  limit: 8
+  page_limit: 8
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
   abbrv: CCGrid
@@ -59,7 +58,7 @@
     - 2011: 29
   location: Cartagena, Columbia
   acceptance: [26, 19, 22, 28, 29]
-  limit: 10
+  page_limit: 10
 
 - name: Conference on Cloud Engineering
   abbrv: IC2E
@@ -70,7 +69,7 @@
   date_from: "2016-04-04"
   date_to: "2016-04-08"
   location: Berlin, Germany
-  limit: 10
+  page_limit: 10
 
 - name: Symposium on Cloud Computing
   abbrv: SoCC
@@ -81,7 +80,7 @@
   date_to: "2015-08-29"
   organization: ACM
   location: Kohala Coast, Hawaii
-  limit: 12
+  page_limit: 12
 
 - name: Conference on Utility and Cloud Computing
   abbrv: UCC
@@ -107,4 +106,4 @@
     - 2013: 28
     - 2012: 40
   location: Niagara Falls, Canada
-  limit: 0
+  page_limit: 0

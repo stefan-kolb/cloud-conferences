@@ -1,0 +1,59 @@
+.time {
+  border-radius: 5px;
+  box-shadow: 0 0 10px 0 rgba(0,0,0,0.5);
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  height: 50px;
+  width: 45px;
+  margin-right: 10px;
+  perspective: 500px;
+}
+
+.count.top {
+    border-top: 1px solid rgba(255,255,255,0.2);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    border-radius: 5px 5px 0 0;
+    height: 50%;
+    transform-origin: 50% 100%;
+}
+
+.count.bottom {
+    background-image: linear-gradient(rgba(255,255,255,0.1), transparent);
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-radius: 0 0 5px 5px;
+    line-height: 0;
+    height: 50%;
+    top: 50%;
+    transform-origin: 50% 0;
+}
+
+.count {
+    background: #202020;
+    color: #f8f8f8;
+    display: block;
+    font-size: 1.2em;
+    line-height: 2.4em;
+    overflow: hidden;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    top: 0;
+    width: 100%;
+    transform: translateZ(0);
+    transform-style: flat;
+}
+
+.label {
+  margin-top: 5px;
+  display: block;
+  position: relative;
+  top: 45px;
+  width: 100%;
+  font-size: 0.6em;
+}
+
+.conference {
+  vertical-align: -45%;
+}
