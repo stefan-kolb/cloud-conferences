@@ -34,7 +34,8 @@
     color: #f8f8f8;
     display: block;
     font-size: 1.2em;
-    line-height: 2.4em;
+    font-weight: bold;
+    line-height: 2.3em;
     overflow: hidden;
     position: absolute;
     text-align: center;

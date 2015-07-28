@@ -6,6 +6,7 @@ title: Cloud Computing Conferences
 
 <h2>Next Deadlines:</h2>
 {% assign deadlines = site.data.conferences | sort: "deadline" %}
+{% assign num = 3 %}
 {% for next in deadlines %}
 {% assign d1 = next.deadline | date: "%Y/%m/%d" %}
 {% assign d2 = 'now' | date: "%Y/%m/%d" %}
@@ -18,7 +19,10 @@ title: Cloud Computing Conferences
   </div>
   <a class="conference" href="#{{ next.abbrv }}">{{ next.name }} ({{ next.abbrv }})</a>
 </div>
-{% break %}
+{% assign num = num | minus:1 %}
+{% if num == 0 %}
+  {% break %}
+{% endif %}
 {% endif %}
 {% endfor %}
 
@@ -50,7 +54,9 @@ title: Cloud Computing Conferences
   {% endif %}
 </p>
 <p>Page limit: {{ conference.page_limit }}</p>
+{% unless forloop.last %}
 <hr>
+{% endunless %}
 {% endfor %}
 
 <script>
