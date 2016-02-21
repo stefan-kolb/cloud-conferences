@@ -84,13 +84,20 @@
 
 - name: Conference on Utility and Cloud Computing
   abbrv: UCC
-  edition: 8
-  url: http://cyprusconferences.org/ucc2015/
-  deadline: "2015-07-31"
-  date_from: "2015-12-07"
-  date_to: "2015-12-10"
+  edition: 9
+  url: http://computing.derby.ac.uk/ucc2016/
+  deadline: "2016-07-03"
+  date_from: "2016-12-6"
+  date_to: "2016-12-9"
   organization: IEEE/ACM
-  location: Limassol, Cyprus
+  location: Shanghai, China
+  page_limit: 10
+  acceptance:
+    - 2015: 27
+    - 2014: 27
+    - 2013: 38
+    - 2012: 40
+    - 2011: 28
 
 - name: Conference on Cloud Networking
   abbrv: CloudNet
