@@ -1,6 +1,6 @@
 - name: Conference on Cloud Computing
   abbrv: CLOUD
-  url: http://www.thecloudcomputing.org/2015/
+  url: http://www.thecloudcomputing.org/2016/
   edition: 8
   organization: IEEE
   deadline: "2016-01-31"
@@ -28,10 +28,10 @@
 
 - name: Conference on Cloud Computing Technology and Science
   abbrv: CloudCom
-  url: http://2015.cloudcom.org/
+  url: http://2016.cloudcom.org/
   edition: 7
-  date_from: "2015-11-30"
-  date_to: "2015-12-03"
+  date_from: "2016-12-12"
+  date_to: "2016-12-15"
   deadline: "2016-06-15"
   organization: IEEE
   acceptance:
@@ -40,7 +40,7 @@
     - 2013: 18
     - 2012: 18
     - 2011: 24
-  location: Vancouver, Canada
+  location: Luxembourg, Luxembourg
   page_limit: 8
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
@@ -73,13 +73,13 @@
 
 - name: Symposium on Cloud Computing
   abbrv: SoCC
-  url: http://acmsocc.github.io/2015/
+  url: http://acmsocc.github.io/2016/
   edition: 6
   deadline: "2015-04-24"
   date_from: "2015-08-27"
   date_to: "2015-08-29"
   organization: ACM
-  location: Kohala Coast, Hawaii
+  location: "San Francisco Bay, CA, USA"
   page_limit: 12
 
 - name: Conference on Utility and Cloud Computing
