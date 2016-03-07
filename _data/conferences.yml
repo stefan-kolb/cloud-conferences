@@ -75,9 +75,9 @@
   abbrv: SoCC
   url: http://acmsocc.github.io/2016/
   edition: 6
-  deadline: "2015-04-24"
-  date_from: "2015-08-27"
-  date_to: "2015-08-29"
+  deadline: "2016-05-24"
+  date_from: "2016-10"
+  date_to: "2016-10"
   organization: ACM
   location: "San Francisco Bay, CA, USA"
   page_limit: 12
@@ -101,7 +101,7 @@
 
 - name: Conference on Cloud Networking
   abbrv: CloudNet
-  url: http://acmsocc.github.io/2015/
+  url: http://cloudnet2015.ieee-cloudnet.org/
   edition: 4
   deadline: "2015-05-19"
   date_from: "2015-10-05"
