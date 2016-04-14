@@ -63,12 +63,12 @@
 - name: Conference on Cloud Engineering
   abbrv: IC2E
   url: http://conferences.computer.org/IC2E/2016/
-  edition: 4
+  edition: 5
   organization: IEEE
-  deadline: "2015-09-05"
-  date_from: "2016-04-04"
-  date_to: "2016-04-08"
-  location: Berlin, Germany
+  deadline: "2016-09-05"
+  date_from: "2017-04-04"
+  date_to: "2017-04-08"
+  location: Vancouver, BC, Canada
   page_limit: 10
 
 - name: Symposium on Cloud Computing
@@ -76,10 +76,10 @@
   url: http://acmsocc.github.io/2016/
   edition: 6
   deadline: "2016-05-24"
-  date_from: "2016-10"
-  date_to: "2016-10"
+  date_from: "2016-10-05"
+  date_to: "2016-10-07"
   organization: ACM
-  location: "San Francisco Bay, CA, USA"
+  location: "Santa Clara, CA, USA"
   page_limit: 12
 
 - name: Conference on Utility and Cloud Computing
@@ -101,16 +101,16 @@
 
 - name: Conference on Cloud Networking
   abbrv: CloudNet
-  url: http://cloudnet2015.ieee-cloudnet.org/
-  edition: 4
-  deadline: "2015-05-19"
-  date_from: "2015-10-05"
-  date_to: "2015-10-07"
+  url: http://cloudnet2016.ieee-cloudnet.org/
+  edition: 5
+  deadline: "2015-05-15"
+  date_from: "2016-10-03"
+  date_to: "2016-10-06"
   organization: IEEE
   acceptance:
     - 2015: 0
     - 2014: 0
     - 2013: 28
     - 2012: 40
-  location: Niagara Falls, Canada
+  location: Pisa, Italy
   page_limit: 0
