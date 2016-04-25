@@ -79,6 +79,12 @@
   date_from: "2016-10-05"
   date_to: "2016-10-07"
   organization: ACM
+  acceptance:
+    - 2015: 22
+    - 2013: 20
+    - 2012: 15
+    - 2011: 17
+    - 2010: 19
   location: "Santa Clara, CA, USA"
   page_limit: 12
 
