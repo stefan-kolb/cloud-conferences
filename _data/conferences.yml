@@ -120,3 +120,13 @@
     - 2012: 40
   location: Pisa, Italy
   page_limit: 0
+  
+- name: European Conference on Service-Oriented and Cloud Computing
+  abbrv: ESOCC
+  url: http://esocc2016.eu/
+  edition: 5
+  deadline: "2016-05-09"
+  date_from: "2016-09-05"
+  date_to: "2016-09-07"
+  location: "Vienna, AT"
+  page_limit: 15  
