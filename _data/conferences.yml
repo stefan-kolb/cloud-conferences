@@ -18,13 +18,13 @@
 - name: Conference on Cloud Computing and Services Science
   abbrv: CLOSER
   url: http://closer.scitevents.org/
-  edition: 6
-  deadline: "2015-10-27"
-  date_from: "2016-04-23"
-  date_to: "2016-04-25"
-  location: "Rome, Italy"
+  edition: 7
+  deadline: "2016-11-21"
+  date_from: "2017-04-22"
+  date_to: "2017-04-24"
+  location: "Porto, Portugal"
   acceptance: [14, 17, 18, 19, 11]
-  page_limit: 13
+  page_limit: 12
 
 - name: Conference on Cloud Computing Technology and Science
   abbrv: CloudCom
