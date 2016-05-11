@@ -6,7 +6,7 @@ title: Cloud Computing Conferences
 
 <h2>Next Deadlines:</h2>
 {% assign deadlines = site.data.conferences | sort: "deadline" %}
-{% assign num = 3 %}
+{% assign num = 5 %}
 {% for next in deadlines %}
 {% assign d1 = next.deadline | date: "%Y/%m/%d" %}
 {% assign d2 = 'now' | date: "%Y/%m/%d" %}
