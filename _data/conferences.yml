@@ -45,10 +45,11 @@
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
   abbrv: CCGrid
-  edition: 16
-  deadline: "2015-10-30"
-  date_from: "2016-05-16"
-  date_to: "2016-05-19"
+  url: https://www.arcos.inf.uc3m.es/wp/ccgrid2017/
+  edition: 17
+  deadline: "2016-11-16"
+  date_from: "2017-05-14"
+  date_to: "2017-05-17"
   organization: IEEE/ACM
   acceptance:
     - 2015: 26
@@ -56,7 +57,7 @@
     - 2013: 22
     - 2012: 28
     - 2011: 29
-  location: Cartagena, Columbia
+  location: Madrid, Spain
   acceptance: [26, 19, 22, 28, 29]
   page_limit: 10
 
