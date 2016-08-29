@@ -1,12 +1,12 @@
 - name: Conference on Cloud Computing
   abbrv: CLOUD
   url: http://www.thecloudcomputing.org/2016/
-  edition: 8
+  edition: 10
   organization: IEEE
-  deadline: "2016-01-31"
-  date_from: "2016-06-26"
-  date_to: "2016-07-03"
-  location: "San Francisco, CA, USA"
+  deadline: "2017-01-31"
+  date_from: "2017-06-26"
+  date_to: "2017-07-03"
+  location: "Honolulu, Hawaii, USA"
   acceptance:
     - 2015: 15
     - 2014: 19
