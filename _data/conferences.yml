@@ -74,11 +74,11 @@
 
 - name: Symposium on Cloud Computing
   abbrv: SoCC
-  url: http://acmsocc.github.io/2016/
-  edition: 6
-  deadline: "2016-05-24"
-  date_from: "2016-10-05"
-  date_to: "2016-10-07"
+  url: http://acmsocc.github.io/2017/
+  edition: 7
+  deadline: "2017-05-24"
+  date_from: "2017-09-25"
+  date_to: "2017-09-27"
   organization: ACM
   acceptance:
     - 2015: 22
@@ -124,10 +124,10 @@
   
 - name: European Conference on Service-Oriented and Cloud Computing
   abbrv: ESOCC
-  url: http://esocc2016.eu/
-  edition: 5
-  deadline: "2016-05-09"
-  date_from: "2016-09-05"
-  date_to: "2016-09-07"
-  location: "Vienna, AT"
+  url: http://esocc2017.ifi.uio.no/
+  edition: 6
+  deadline: "2017-05-09"
+  date_from: "2017-09-27"
+  date_to: "2017-09-29"
+  location: "Oslo, NO"
   page_limit: 15  
