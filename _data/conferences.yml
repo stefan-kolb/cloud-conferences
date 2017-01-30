@@ -28,8 +28,8 @@
 
 - name: Conference on Cloud Computing Technology and Science
   abbrv: CloudCom
-  url: http://2016.cloudcom.org/
-  edition: 7
+  url: http://2017.cloudcom.org/
+  edition: 8
   date_from: "2016-12-12"
   date_to: "2016-12-15"
   deadline: "2016-06-30"
