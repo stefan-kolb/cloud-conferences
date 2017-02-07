@@ -10,7 +10,7 @@ title: Cloud Computing Conferences
 {% for next in deadlines %}
 {% assign d1 = next.deadline | date: "%Y/%m/%d" %}
 {% assign d2 = 'now' | date: "%Y/%m/%d" %}
-{% if d1 > d2 %}
+{% if d1 >= d2 %}
 <div>
   <div class="time">
     <span class="count curr top" data-countdown="{{ next.deadline | date: "%Y/%m/%d" }}"></span>
