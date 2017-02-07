@@ -51,7 +51,9 @@ function createCountdown(element, index, array) {
             <a class='conference' href='#" + element.abbrv + "'>" + element.name + "(" + element.abbrv + ")</a>\
            </div>"
 
-  $('#countdown').append(html);
+  if(new Date(element.deadline) >= Date.now()) {
+    $('#countdown').append(html);
+  }
 }
 
 $(document).ready(function() {
