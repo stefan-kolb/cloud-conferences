@@ -40,7 +40,7 @@
     - 2013: 18
     - 2012: 18
     - 2011: 24
-  location: TDA
+  location: TBA
   page_limit: 8
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
@@ -108,19 +108,19 @@
 
 - name: Conference on Cloud Networking
   abbrv: CloudNet
-  url: http://cloudnet2016.ieee-cloudnet.org/
-  edition: 5
-  deadline: "2015-05-15"
-  date_from: "2016-10-03"
-  date_to: "2016-10-06"
+  url: http://cloudnet2017.ieee-cloudnet.org/
+  edition: 6
+  deadline: "2017-04-27"
+  date_from: "2017-09-25"
+  date_to: "2017-09-27"
   organization: IEEE
   acceptance:
     - 2015: 0
     - 2014: 0
     - 2013: 28
     - 2012: 40
-  location: Pisa, Italy
-  page_limit: 0
+  location: Prague, Czech Republic
+  page_limit: 6
   
 - name: European Conference on Service-Oriented and Cloud Computing
   abbrv: ESOCC
