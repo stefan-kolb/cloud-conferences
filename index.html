@@ -5,26 +5,7 @@ title: Cloud Computing Conferences
 {% assign conferences = site.data.conferences | sort: "name" %}
 
 <h2>Next Deadlines:</h2>
-{% assign deadlines = site.data.conferences | sort: "deadline" %}
-{% assign num = 5 %}
-{% for next in deadlines %}
-{% assign d1 = next.deadline | date: "%Y/%m/%d" %}
-{% assign d2 = 'now' | date: "%Y/%m/%d" %}
-{% if d1 >= d2 %}
-<div>
-  <div class="time">
-    <span class="count curr top" data-countdown="{{ next.deadline | date: "%Y/%m/%d" }}"></span>
-    <span class="count curr bottom" data-countdown="{{ next.deadline | date: "%Y/%m/%d" }}"></span>
-    <span class="label">days</span>
-  </div>
-  <a class="conference" href="#{{ next.abbrv }}">{{ next.name }} ({{ next.abbrv }})</a>
-</div>
-{% assign num = num | minus:1 %}
-{% if num == 0 %}
-  {% break %}
-{% endif %}
-{% endif %}
-{% endfor %}
+<div id="countdown"></div>
 
 <h2>Conference List</h2>
 <ul>
@@ -60,12 +41,29 @@ title: Cloud Computing Conferences
 {% endfor %}
 
 <script>
+function createCountdown(element, index, array) {
+  html = "<div>\
+            <div class='time'>\
+              <span class='count curr top' data-countdown='" + element.deadline + "'></span>\
+              <span class='count curr bottom' data-countdown='" + element.deadline + "'></span>\
+              <span class='label'>days</span>\
+            </div>\
+            <a class='conference' href='#" + element.abbrv + "'>" + element.name + "(" + element.abbrv + ")</a>\
+           </div>"
+
+  $('#countdown').append(html);
+}
+
 $(document).ready(function() {
+  conferences = {{ site.data.conferences | sort: 'deadline' | jsonify }};
+  conferences.forEach(createCountdown);
+  
   $('[data-countdown]').each(function() {
     var $this = $(this), finalDate = $(this).data('countdown');
     $this.countdown(finalDate, function(event) {
       $this.html(event.strftime('%-D'));
     });
   });
+  
 });
 </script>
