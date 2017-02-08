@@ -132,10 +132,11 @@
   location: "Oslo, NO"
   page_limit: 15  
   
-- name: USENIX Workshop on Hot Topics in Cloud Computing
+- name: Workshop on Hot Topics in Cloud Computing
   abbrv: HotCloud
   url: https://www.usenix.org/conference/hotcloud17
   edition: 9
+  organization: USENIX
   deadline: "2017-03-14"
   date_from: "2017-07-12"
   date_to: "2017-07-14"
