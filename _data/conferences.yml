@@ -30,8 +30,8 @@
   abbrv: CloudCom
   url: http://2017.cloudcom.org/
   edition: 8
-  date_from: "2017-12-12"
-  date_to: "2017-12-15"
+  date_from: "2017-12-11"
+  date_to: "2017-12-14"
   deadline: "2017-06-30"
   organization: IEEE
   acceptance:
@@ -40,7 +40,7 @@
     - 2013: 18
     - 2012: 18
     - 2011: 24
-  location: TBA
+  location: Hong Kong, CN
   page_limit: 8
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
