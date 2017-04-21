@@ -66,10 +66,10 @@
   url: http://conferences.computer.org/IC2E/2017/
   edition: 5
   organization: IEEE
-  deadline: "2016-09-12"
-  date_from: "2017-04-04"
-  date_to: "2017-04-07"
-  location: Vancouver, BC, Canada
+  deadline: "2017-09-12"
+  date_from: "2018-04"
+  date_to: "2018-04"
+  location: TBD
   page_limit: 10
 
 - name: Symposium on Cloud Computing
@@ -91,13 +91,13 @@
 
 - name: Conference on Utility and Cloud Computing
   abbrv: UCC
-  edition: 9
-  url: http://computing.derby.ac.uk/ucc2016/
-  deadline: "2016-07-03"
-  date_from: "2016-12-6"
-  date_to: "2016-12-9"
+  edition: 10
+  url: http://ucc-conference.org/
+  deadline: "2017-07-15"
+  date_from: "2017-12-5"
+  date_to: "2017-12-8"
   organization: IEEE/ACM
-  location: Shanghai, China
+  location: Austin, Texas, USA
   page_limit: 10
   acceptance:
     - 2015: 27
