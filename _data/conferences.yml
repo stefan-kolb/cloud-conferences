@@ -18,11 +18,11 @@
 - name: Conference on Cloud Computing and Services Science
   abbrv: CLOSER
   url: http://closer.scitevents.org/
-  edition: 7
-  deadline: "2016-12-15"
-  date_from: "2017-04-22"
-  date_to: "2017-04-24"
-  location: "Porto, Portugal"
+  edition: 8
+  deadline: "2017-10-16"
+  date_from: "2018-03-19"
+  date_to: "2018-03-21"
+  location: "Funchal, Madeira, Portugal"
   acceptance: [14, 17, 18, 19, 11]
   page_limit: 12
 
