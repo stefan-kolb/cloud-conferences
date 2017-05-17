@@ -142,3 +142,13 @@
   date_to: "2017-07-14"
   location: "Santa Clara, CA, USA"
   page_limit: 5
+  
+- name: International Symposium on Secure Virtual Infrastructures – Cloud and Trusted Computing
+  abbrv: C&TC
+  url: http://www.otmconferences.org/index.php/conferences/ctc-2017
+  edition: 7
+  deadline: "2017-07-12"
+  date_from: "2017-10-23"
+  date_to: "2017-10-24"
+  location: "Rhodes, Greece"
+  page_limit: 18  
