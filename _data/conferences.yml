@@ -63,13 +63,13 @@
 
 - name: Conference on Cloud Engineering
   abbrv: IC2E
-  url: http://conferences.computer.org/IC2E/2017/
+  url: http://conferences.computer.org/IC2E/2018/
   edition: 5
   organization: IEEE
   deadline: "2017-09-12"
-  date_from: "2018-04"
-  date_to: "2018-04"
-  location: TBD
+  date_from: "2018-04-09"
+  date_to: "2018-04-12"
+  location: Orlando, FL, USA
   page_limit: 10
 
 - name: Symposium on Cloud Computing
