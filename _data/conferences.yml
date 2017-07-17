@@ -1,12 +1,12 @@
 - name: Conference on Cloud Computing
   abbrv: CLOUD
   url: http://www.thecloudcomputing.org/2017
-  edition: 10
+  edition: 11
   organization: IEEE
-  deadline: "2017-02-06"
-  date_from: "2017-06-26"
-  date_to: "2017-07-03"
-  location: "Honolulu, Hawaii, USA"
+  deadline: "2018-02-06"
+  date_from: "2018-06"
+  date_to: "2018-07"
+  location: "TBD, USA"
   acceptance:
     - 2015: 15
     - 2014: 19
@@ -45,11 +45,11 @@
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
   abbrv: CCGrid
-  url: https://www.arcos.inf.uc3m.es/wp/ccgrid2017/
-  edition: 17
-  deadline: "2016-11-30"
-  date_from: "2017-05-14"
-  date_to: "2017-05-17"
+  url: http://ccgrid2018.seas.gwu.edu/
+  edition: 18
+  deadline: "2017-11-20"
+  date_from: "2018-05-01"
+  date_to: "2018-05-04"
   organization: IEEE/ACM
   acceptance:
     - 2015: 26
@@ -57,7 +57,7 @@
     - 2013: 22
     - 2012: 28
     - 2011: 29
-  location: Madrid, Spain
+  location: Washington, DC, USA
   acceptance: [26, 19, 22, 28, 29]
   page_limit: 10
 
