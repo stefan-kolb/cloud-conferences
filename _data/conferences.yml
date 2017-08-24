@@ -4,8 +4,8 @@
   edition: 11
   organization: IEEE
   deadline: "2018-02-06"
-  date_from: "2018-06"
-  date_to: "2018-07"
+  date_from: "2018-06-24"
+  date_to: "2018-06-29"
   location: "TBD, USA"
   acceptance:
     - 2015: 15
