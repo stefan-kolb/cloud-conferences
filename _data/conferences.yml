@@ -134,13 +134,13 @@
   
 - name: Workshop on Hot Topics in Cloud Computing
   abbrv: HotCloud
-  url: https://www.usenix.org/conference/hotcloud17
-  edition: 9
+  url: https://www.usenix.org/conference/hotcloud18
+  edition: 10
   organization: USENIX
-  deadline: "2017-03-14"
-  date_from: "2017-07-12"
-  date_to: "2017-07-14"
-  location: "Santa Clara, CA, USA"
+  deadline: "2018-03-10"
+  date_from: "2018-07-09"
+  date_to: "2018-07-10"
+  location: "Boston, MA, USA"
   page_limit: 5
   
 - name: Symposium on Secure Virtual Infrastructures – Cloud and Trusted Computing
