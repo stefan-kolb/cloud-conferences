@@ -1,12 +1,12 @@
 - name: Conference on Cloud Computing
   abbrv: CLOUD
-  url: http://www.thecloudcomputing.org/2017
+  url: http://conferences.computer.org/cloud/2018/
   edition: 11
   organization: IEEE
   deadline: "2018-02-06"
-  date_from: "2018-06-24"
-  date_to: "2018-06-29"
-  location: "TBD, USA"
+  date_from: "2018-07-02"
+  date_to: "2018-07-07"
+  location: "San Francisco, CA, USA"
   acceptance:
     - 2015: 15
     - 2014: 19
