@@ -24,9 +24,11 @@ title: Cloud Computing Conferences
   {% when "2" or "22" %}{{ d }}nd
   {% when "3" or "23" %}{{ d }}rd
   {% else %}{{ d }}th
-{% endcase %} edition
+{% endcase %}
 {% if conference.organization %}
-, {{ conference.organization }} sponsored
+edition, {{ conference.organization }} sponsored
+{% else %}
+edition
 {% endif %}</p>
 <h4>Call for Papers</h4>
 <p>Deadline:
