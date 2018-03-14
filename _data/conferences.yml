@@ -74,11 +74,11 @@
 
 - name: Symposium on Cloud Computing
   abbrv: SoCC
-  url: http://acmsocc.github.io/2017/
-  edition: 7
-  deadline: "2017-05-24"
-  date_from: "2017-09-25"
-  date_to: "2017-09-27"
+  url: http://acmsocc.github.io/2018/
+  edition: 8
+  deadline: "2018-05-15"
+  date_from: "2018-10-11"
+  date_to: "2018-10-13"
   organization: ACM
   acceptance:
     - 2015: 22
@@ -86,18 +86,18 @@
     - 2012: 15
     - 2011: 17
     - 2010: 19
-  location: "Santa Clara, CA, USA"
+  location: "Carlsbad, CA, USA"
   page_limit: 12
 
 - name: Conference on Utility and Cloud Computing
   abbrv: UCC
-  edition: 10
+  edition: 11
   url: http://ucc-conference.org/
-  deadline: "2017-08-30"
-  date_from: "2017-12-5"
-  date_to: "2017-12-8"
+  deadline: "2018-08-01"
+  date_from: "2018-12-17"
+  date_to: "2018-12-20"
   organization: IEEE/ACM
-  location: Austin, Texas, USA
+  location: Zurich, Switzerland
   page_limit: 10
   acceptance:
     - 2015: 27
@@ -108,28 +108,28 @@
 
 - name: Conference on Cloud Networking
   abbrv: CloudNet
-  url: http://cloudnet2017.ieee-cloudnet.org/
-  edition: 6
-  deadline: "2017-05-26"
-  date_from: "2017-09-25"
-  date_to: "2017-09-27"
+  url: http://cloudnet2018.ieee-cloudnet.org/
+  edition: 7
+  deadline: "2018-05-15"
+  date_from: "2018-10-22"
+  date_to: "2018-10-24"
   organization: IEEE
   acceptance:
     - 2015: 0
     - 2014: 0
     - 2013: 28
     - 2012: 40
-  location: Prague, Czech Republic
+  location: Tokyo, Japan
   page_limit: 6
   
 - name: European Conference on Service-Oriented and Cloud Computing
   abbrv: ESOCC
-  url: http://esocc2017.ifi.uio.no/
-  edition: 6
-  deadline: "2017-05-19"
-  date_from: "2017-09-27"
-  date_to: "2017-09-29"
-  location: "Oslo, NO"
+  url: http://esocc2018.disco.unimib.it/
+  edition: 7
+  deadline: "2018-05-07"
+  date_from: "2018-09-12"
+  date_to: "2018-09-14"
+  location: "Como, Italy"
   page_limit: 15  
   
 - name: Workshop on Hot Topics in Cloud Computing
