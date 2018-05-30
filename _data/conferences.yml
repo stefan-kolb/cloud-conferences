@@ -18,11 +18,11 @@
 - name: Conference on Cloud Computing and Services Science
   abbrv: CLOSER
   url: http://closer.scitevents.org/
-  edition: 8
-  deadline: "2017-10-16"
-  date_from: "2018-03-19"
-  date_to: "2018-03-21"
-  location: "Funchal, Madeira, Portugal"
+  edition: 9
+  deadline: "2018-12-10"
+  date_from: "2019-05-02"
+  date_to: "2019-05-04"
+  location: "Heraklion, Crete, Greece"
   acceptance: [14, 17, 18, 19, 11]
   page_limit: 12
 
@@ -45,11 +45,11 @@
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
   abbrv: CCGrid
-  url: http://ccgrid2018.seas.gwu.edu/
-  edition: 18
-  deadline: "2017-11-20"
-  date_from: "2018-05-01"
-  date_to: "2018-05-04"
+  url: http://www.ccgrid2019.org/
+  edition: 19
+  deadline: "2018-11-16"
+  date_from: "2019-05-14"
+  date_to: "2019-05-17"
   organization: IEEE/ACM
   acceptance:
     - 2015: 26
@@ -57,19 +57,19 @@
     - 2013: 22
     - 2012: 28
     - 2011: 29
-  location: Washington, DC, USA
+  location: Larnaca, Cyprus
   acceptance: [26, 19, 22, 28, 29]
   page_limit: 10
 
 - name: Conference on Cloud Engineering
   abbrv: IC2E
   url: http://conferences.computer.org/IC2E/2018/
-  edition: 5
+  edition: 6
   organization: IEEE
-  deadline: "2017-09-11"
-  date_from: "2018-04-09"
-  date_to: "2018-04-12"
-  location: Orlando, FL, USA
+  deadline: "2018-09-11"
+  date_from: "2019-04"
+  date_to: "2019-04"
+  location: "tbd"
   page_limit: 10
 
 - name: Symposium on Cloud Computing
@@ -145,10 +145,10 @@
   
 - name: Symposium on Secure Virtual Infrastructures – Cloud and Trusted Computing
   abbrv: C&TC
-  url: http://www.otmconferences.org/index.php/conferences/ctc-2017
-  edition: 7
-  deadline: "2017-07-12"
-  date_from: "2017-10-23"
-  date_to: "2017-10-24"
-  location: "Rhodes, Greece"
+  url: http://www.otmconferences.org/index.php/conferences/ctc-2018
+  edition: 8
+  deadline: "2018-07-10"
+  date_from: "2018-10-22"
+  date_to: "2018-10-23"
+  location: "Valletta, Malta"
   page_limit: 18  
