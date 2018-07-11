@@ -66,11 +66,11 @@
   url: http://conferences.computer.org/IC2E/2018/
   edition: 6
   organization: IEEE
-  deadline: "2018-09-11"
-  date_from: "2019-04-01"
-  date_to: "2019-04-01"
-  location: "tbd"
-  page_limit: 10
+  deadline: "2018-09-25"
+  date_from: "2019-04-17"
+  date_to: "2019-04-20"
+  location: "Orlando, FL, USA"
+  page_limit: 11
 
 - name: Symposium on Cloud Computing
   abbrv: SoCC
