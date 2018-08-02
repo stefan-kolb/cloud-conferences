@@ -1,7 +1,7 @@
 # Cloud Computing Conferences
 A collection of scientific and industry conferences focused on cloud computing.  
 
-__View it @ http://stefan-kolb.github.io/cloud-conferences/__
+__View it @ http://doc-vu.github.io/cloud-conferences/__
 
 ## Contribution
 
