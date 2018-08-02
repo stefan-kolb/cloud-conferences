@@ -47,7 +47,7 @@
   abbrv: CCGrid
   url: http://www.ccgrid2019.org/
   edition: 19
-  deadline: "2018-11-16"
+  deadline: "2018-12-7"
   date_from: "2019-05-14"
   date_to: "2019-05-17"
   organization: IEEE/ACM
@@ -63,13 +63,13 @@
 
 - name: Conference on Cloud Engineering
   abbrv: IC2E
-  url: http://conferences.computer.org/IC2E/2018/
+  url: http://conferences.computer.org/IC2E/2019/
   edition: 6
   organization: IEEE
-  deadline: "2018-09-25"
-  date_from: "2019-04-17"
-  date_to: "2019-04-20"
-  location: "Orlando, FL, USA"
+  deadline: "2018-11-16"
+  date_from: "2019-06-24"
+  date_to: "2019-06-27"
+  location: "Prague,Czech Republic"
   page_limit: 11
 
 - name: Symposium on Cloud Computing
@@ -151,4 +151,36 @@
   date_from: "2018-10-22"
   date_to: "2018-10-23"
   location: "Valletta, Malta"
+  page_limit: 18  
+
+
+- name: Internet of things Design and Implmentation 
+  abbrv: IOTDI
+  url: http://conferences.computer.org/IoTDI/
+  edition: 8
+  deadline: "2018-10-05"
+  date_from: "2019-4-1"
+  date_to: "2019-4-1"
+  location: "Montreal, Canada"
+  page_limit: 18  
+  
+- name: EuroSYS 
+  abbrv: EUROSYS
+  url: http://www.eurosys2019.org
+  edition: 8
+  deadline: "2018-09-24"
+  date_from: "2019-3-25"
+  date_to: "2019-3-28"
+  location: "Dresden, Germany"
+  page_limit: 18  
+
+
+- name: International Conference on Performance Engineering 
+  abbrv: ICPE
+  url: https://icpe2019.spec.org/
+  edition: 8
+  deadline: "2018-10-13"
+  date_from: "2019-4-07"
+  date_to: "2019-4-11"
+  location: "Mumbai, India"
   page_limit: 18  
