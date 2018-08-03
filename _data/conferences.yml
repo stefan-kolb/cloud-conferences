@@ -185,7 +185,7 @@
   location: "Mumbai, India"
   page_limit: 18  
   
-  - name: IEEE Conference on Software Testing, Validation and Verification 
+- name: IEEE Conference on Software Testing, Validation and Verification 
   abbrv: ICST
   url: http://icst2019.xjtu.edu.cn/index.htm
   edition: 8
