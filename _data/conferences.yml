@@ -194,3 +194,13 @@
   date_to: "2019-4-11"
   location: "Xian, China"
   page_limit: 18  
+
+- name: IEEE International Symposium on Performance Analysis of Systems and Software
+  abbrv: ISPASS
+  url: http://ieeetcca.org/2018/07/31/call-for-papers-ispass-2019/
+  edition: 8
+  deadline: "2018-09-28"
+  date_from: "2019-3-24"
+  date_to: "2019-3-27"
+  location: "Madison,USA"
+  page_limit: 18  
