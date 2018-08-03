@@ -184,3 +184,13 @@
   date_to: "2019-4-11"
   location: "Mumbai, India"
   page_limit: 18  
+  
+  - name: IEEE Conference on Software Testing, Validation and Verification 
+  abbrv: ICST
+  url: http://icst2019.xjtu.edu.cn/index.htm
+  edition: 8
+  deadline: "2018-10-5"
+  date_from: "2019-4-07"
+  date_to: "2019-4-11"
+  location: "Xian, China"
+  page_limit: 18  
