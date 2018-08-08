@@ -93,13 +93,15 @@
   abbrv: UCC
   edition: 11
   url: http://ucc-conference.org/
-  deadline: "2018-08-01"
+  deadline: "2018-08-15"
   date_from: "2018-12-17"
   date_to: "2018-12-20"
   organization: IEEE/ACM
   location: Zurich, Switzerland
   page_limit: 10
   acceptance:
+    - 2017: 27
+    - 2016: 26
     - 2015: 27
     - 2014: 27
     - 2013: 38
