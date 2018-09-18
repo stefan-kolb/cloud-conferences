@@ -70,7 +70,7 @@
   date_from: "2019-06-24"
   date_to: "2019-06-27"
   location: "Prague,Czech Republic"
-  page_limit: 11
+  page_limit: 10
 
 - name: Symposium on Cloud Computing
   abbrv: SoCC
