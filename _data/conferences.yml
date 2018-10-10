@@ -100,6 +100,7 @@
   location: Zurich, Switzerland
   page_limit: 10
   acceptance:
+    - 2018: 20.5
     - 2017: 27
     - 2016: 26
     - 2015: 27
