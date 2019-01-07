@@ -47,7 +47,7 @@
   abbrv: CCGrid
   url: http://www.ccgrid2019.org/
   edition: 19
-  deadline: "2018-12-7"
+  deadline: "2018-12-14"
   date_from: "2019-05-14"
   date_to: "2019-05-17"
   organization: IEEE/ACM
@@ -66,7 +66,7 @@
   url: http://conferences.computer.org/IC2E/2019/
   edition: 6
   organization: IEEE
-  deadline: "2018-11-16"
+  deadline: "2018-11-23"
   date_from: "2019-06-24"
   date_to: "2019-06-27"
   location: "Prague,Czech Republic"
@@ -137,13 +137,13 @@
   
 - name: Workshop on Hot Topics in Cloud Computing
   abbrv: HotCloud
-  url: https://www.usenix.org/conference/hotcloud18
-  edition: 10
+  url: https://www.usenix.org/conference/hotcloud19
+  edition: 11
   organization: USENIX
-  deadline: "2018-03-10"
-  date_from: "2018-07-09"
-  date_to: "2018-07-10"
-  location: "Boston, MA, USA"
+  deadline: "2019-03-06"
+  date_from: "2019-07-08"
+  date_to: "2018-07-08"
+  location: "Renton, WA, USA"
   page_limit: 5
   
 - name: Symposium on Secure Virtual Infrastructures – Cloud and Trusted Computing
