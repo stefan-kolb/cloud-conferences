@@ -26,6 +26,22 @@
   acceptance: [14, 17, 18, 19, 11]
   page_limit: 12
 
+- name: International Conference on Service-Oriented Computing
+  abbrv: ICSOC
+  url: http://www.icsoc.org
+  edition: 17
+  deadline: "2019-05-10"
+  date_from: "2019-10-28"
+  date_to: "2019-10-31"
+  location: "Touluse, France"
+  acceptance: []
+  page_limit: 15
+  
+  
+  
+
+
+
 - name: Conference on Cloud Computing Technology and Science
   abbrv: CloudCom
   url: http://2018.cloudcom.org/
