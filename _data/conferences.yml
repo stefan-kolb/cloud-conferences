@@ -200,3 +200,14 @@
   date_to: "2019-06-17"
   location: "Umea, Sweden"
   page_limit: 6
+
+- name: IEEE International Conference on Computer Communications
+  abbrv: IEEE INFOCOM
+  url: https://infocom2020.ieee-infocom.org/
+  edition: 14
+  deadline: "2019-07-24"
+  date_from: "2020-04-27"
+  date_to: "2020-04-30"
+  location: "Beijing, China"
+  acceptance: 
+  page_limit: 10
