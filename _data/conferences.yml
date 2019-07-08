@@ -211,3 +211,14 @@
   location: "Beijing, China"
   acceptance: 
   page_limit: 10
+
+- name: International Conference on Future Internet of Things and Cloud
+  abbrv: FiCloud
+  url: http://www.ficloud.org/2019/
+  edition: 7
+  deadline: "2019-04-16"
+  date_from: "2019-08-26"
+  date_to: "2019-08-28"
+  location: "Istanbul, Turkey"
+  acceptance:
+  page_limit: 8
