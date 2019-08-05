@@ -63,11 +63,11 @@
 
 - name: Conference on Cloud Computing Technology and Science
   abbrv: CloudCom
-  url: http://2018.cloudcom.org/
-  edition: 10
-  date_from: "2018-12-10"
-  date_to: "2018-12-13"
-  deadline: "2018-06-15"
+  url: http://2019.cloudcom.org/
+  edition: 11
+  date_from: "2019-12-11"
+  date_to: "2019-12-13"
+  deadline: "2019-08-10"
   organization: IEEE
   acceptance:
     - 2015: 0
@@ -75,7 +75,7 @@
     - 2013: 18
     - 2012: 18
     - 2011: 24
-  location: Nicosia, CY
+  location: "Sydney, Australia"
   page_limit: 8
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
@@ -146,18 +146,18 @@
 
 - name: Conference on Cloud Networking
   abbrv: CloudNet
-  url: http://cloudnet2018.ieee-cloudnet.org/
+  url: http://cloudnet2019.ieee-cloudnet.org/
   edition: 7
-  deadline: "2018-05-15"
-  date_from: "2018-10-22"
-  date_to: "2018-10-24"
+  date_from: "2019-11-04"
+  date_to: "2019-11-06"
+  deadline: "2019-07-23"
   organization: IEEE
   acceptance:
     - 2015: 0
     - 2014: 0
     - 2013: 28
     - 2012: 40
-  location: Tokyo, Japan
+  location: Coimbra, Portugal
   page_limit: 6
   
 - name: European Conference on Service-Oriented and Cloud Computing
