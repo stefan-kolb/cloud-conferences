@@ -1,12 +1,12 @@
 - name: Conference on Cloud Computing
   abbrv: CLOUD
   url: http://conferences.computer.org/cloud/2019/
-  edition: 12
+  edition: 13
   organization: IEEE
-  deadline: "2019-02-04"
-  date_from: "2019-07-08"
-  date_to: "2019-07-13"
-  location: "Milan, IT"
+  deadline: "2020-02-13"
+  date_from: "2020-07-07"
+  date_to: "2020-07-11"
+  location: "BEIJING, China"
   acceptance:
     - 2015: 15
     - 2014: 19
@@ -19,55 +19,55 @@
   abbrv: CLOSER
   url: http://closer.scitevents.org/
   edition: 10
-  deadline: "2019-12-13"
+  deadline: "2020-02-05"
   date_from: "2020-05-07"
   date_to: "2020-05-09"
   location: "Prague, Czech Republic"
   acceptance: [14, 17, 18, 19, 11]
-  page_limit: 12
+  page_limit: 6
 
 - name: International Conference on Service-Oriented Computing
   abbrv: ICSOC
-  url: http://www.icsoc.org
-  edition: 17
-  deadline: "2019-05-10"
-  date_from: "2019-10-28"
-  date_to: "2019-10-31"
-  location: "Touluse, France"
+  url: https://icsoc2020.connect.rs/
+  edition: 18
+  deadline: "2020-05-03"
+  date_from: "2020-11-09"
+  date_to: "2020-11-12"
+  location: "Dubai, UAE"
   acceptance: []
   page_limit: 15
 
 
 - name: European Conference on Software Architectures
   abbrv: ECSA
-  url: https://ecsa2019.univ-lille.fr
-  edition: 17
-  deadline: "2019-05-10"
-  date_from: "2019-09-09"
-  date_to: "2019-09-13"
-  location: "Lille, France"
+  url: https://ecsa2020.disim.univaq.it/
+  edition: 14
+  deadline: "2020-05-04"
+  date_from: "2020-09-14"
+  date_to: "2020-09-18"
+  location: "Laquila, Itlay"
   acceptance: []
-  page_limit: 15
+  page_limit: 16
   
 - name: International Conference on Software Architecture
   abbrv: ICSA
-  url: https://swk-www.informatik.uni-hamburg.de/~icsa2019/index.html
+  url: http://icsa-conferences.org/2020/index.html
   edition: unknown
-  deadline: "2018-12-06"
-  date_from: "2019-03-25"
-  date_to: "2019-03-29"
-  location: "Hamburg, Germany"
+  deadline: "2019-12-18"
+  date_from: "2020-03-16"
+  date_to: "2020-03-20"
+  location: "Salvador, Brazil"
   acceptance: []
   page_limit: 10
   
 
 - name: Conference on Cloud Computing Technology and Science
   abbrv: CloudCom
-  url: http://2019.cloudcom.org/
-  edition: 11
-  date_from: "2019-12-11"
-  date_to: "2019-12-13"
-  deadline: "2019-08-10"
+  url: http://2020.cloudcom.org/
+  edition: 12
+  date_from: "2020-06-01"
+  date_to: "2020-12-17"
+  deadline: "2020-08-10"
   organization: IEEE
   acceptance:
     - 2015: 0
@@ -75,7 +75,7 @@
     - 2013: 18
     - 2012: 18
     - 2011: 24
-  location: "Sydney, Australia"
+  location: "Bangkok, Thailand"
   page_limit: 8
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
@@ -172,13 +172,13 @@
   
 - name: Workshop on Hot Topics in Cloud Computing
   abbrv: HotCloud
-  url: https://www.usenix.org/conference/hotcloud19
-  edition: 11
+  url: https://www.usenix.org/conference/hotcloud20
+  edition: 12
   organization: USENIX
-  deadline: "2019-03-06"
-  date_from: "2019-07-08"
-  date_to: "2018-07-08"
-  location: "Renton, WA, USA"
+  deadline: "2020-03-17"
+  date_from: "2020-07-13"
+  date_to: "2020-07-13"
+  location: "BOSTON, MA, USA"
   page_limit: 5
   
 - name: Symposium on Secure Virtual Infrastructures – Cloud and Trusted Computing
@@ -195,10 +195,10 @@
   abbrv: HotCloudPerf
   url: https://hotcloudperf.spec.org
   edition: 2
-  deadline: "2019-03-14"
-  date_from: "2019-06-16"
-  date_to: "2019-06-17"
-  location: "Umea, Sweden"
+  deadline: "2020-02-5"
+  date_from: "2020-04-21"
+  date_to: "2020-04-21"
+  location: "Edmonton, Canada"
   page_limit: 6
 
 - name: IEEE International Conference on Computer Communications
@@ -214,11 +214,11 @@
 
 - name: International Conference on Future Internet of Things and Cloud
   abbrv: FiCloud
-  url: http://www.ficloud.org/2019/
-  edition: 7
-  deadline: "2019-04-16"
-  date_from: "2019-08-26"
-  date_to: "2019-08-28"
-  location: "Istanbul, Turkey"
+  url: http://www.ficloud.org/2020/
+  edition: 8
+  deadline: "2020-03-12"
+  date_from: "2020-08-24"
+  date_to: "2020-08-26"
+  location: "Rome, Itlay"
   acceptance:
   page_limit: 8
