@@ -18,19 +18,19 @@
 - name: Conference on Cloud Computing and Services Science
   abbrv: CLOSER
   url: http://closer.scitevents.org/
-  edition: 10
-  deadline: "2020-02-05"
-  date_from: "2020-05-07"
-  date_to: "2020-05-09"
+  edition: 11
+  deadline: "2020-11-30"
+  date_from: "2021-04-28"
+  date_to: "2021-04-30"
   location: "Prague, Czech Republic"
   acceptance: [14, 17, 18, 19, 11]
-  page_limit: 6
+  page_limit: 10
 
 - name: International Conference on Service-Oriented Computing
   abbrv: ICSOC
   url: https://icsoc2020.connect.rs/
   edition: 18
-  deadline: "2020-05-03"
+  deadline: "2020-05-31"
   date_from: "2020-11-09"
   date_to: "2020-11-12"
   location: "Dubai, UAE"
