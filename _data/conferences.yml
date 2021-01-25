@@ -40,26 +40,25 @@
 
 - name: European Conference on Software Architectures
   abbrv: ECSA
-  url: https://ecsa2020.disim.univaq.it/
-  edition: 14
-  deadline: "2020-05-04"
-  date_from: "2020-09-14"
-  date_to: "2020-09-18"
-  location: "Laquila, Itlay"
+  url: https://conf.researchr.org/home/ecsa-2021
+  edition: 15
+  deadline: "2021-05-03"
+  date_from: "2021-09-13"
+  date_to: "2021-09-17"
+  location: "Växjö, Sweden"
   acceptance: []
   page_limit: 16
   
 - name: International Conference on Software Architecture
   abbrv: ICSA
-  url: http://icsa-conferences.org/2020/index.html
-  edition: unknown
-  deadline: "2019-12-18"
-  date_from: "2020-03-16"
-  date_to: "2020-03-20"
-  location: "Salvador, Brazil"
+  url: https://icsa-conferences.org/2021/
+  edition: 18
+  deadline: "2020-12-09"
+  date_from: "2021-03-22"
+  date_to: "2021-03-26"
+  location: "Stuttgart, Germany"
   acceptance: []
   page_limit: 10
-  
 
 - name: Conference on Cloud Computing Technology and Science
   abbrv: CloudCom
@@ -80,11 +79,11 @@
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
   abbrv: CCGrid
-  url: http://www.ccgrid2019.org/
-  edition: 19
-  deadline: "2018-12-14"
-  date_from: "2019-05-14"
-  date_to: "2019-05-17"
+  url: http://cloudbus.org/ccgrid2021/
+  edition: 21
+  deadline: "2020-12-08"
+  date_from: "2021-05-10"
+  date_to: "2021-05-13"
   organization: IEEE/ACM
   acceptance:
     - 2015: 26
@@ -92,19 +91,19 @@
     - 2013: 22
     - 2012: 28
     - 2011: 29
-  location: Larnaca, Cyprus
+  location: Melbourne, Australia
   acceptance: [26, 19, 22, 28, 29]
   page_limit: 10
 
 - name: Conference on Cloud Engineering
   abbrv: IC2E
-  url: http://conferences.computer.org/IC2E/2019/
-  edition: 6
+  url: https://conferences.computer.org/IC2E/2021/
+  edition: 9
   organization: IEEE
-  deadline: "2018-11-23"
-  date_from: "2019-06-24"
-  date_to: "2019-06-27"
-  location: "Prague,Czech Republic"
+  deadline: "2021-03-07"
+  date_from: "2021-10-04"
+  date_to: "2021-10-08"
+  location: "San Francisco, CA, USA"
   page_limit: 10
 
 - name: Symposium on Cloud Computing
@@ -126,13 +125,13 @@
 
 - name: Conference on Utility and Cloud Computing
   abbrv: UCC
-  edition: 11
-  url: http://ucc-conference.org/
-  deadline: "2019-08-29"
-  date_from: "2019-12-2"
-  date_to: "2019-12-5"
+  edition: 13
+  url: https://www.cs.le.ac.uk/events/UCC2020/
+  deadline: "2020-08-31"
+  date_from: "2020-12-7"
+  date_to: "2020-12-10"
   organization: IEEE/ACM
-  location: Auckland, New Zealand
+  location: Leicester, UK
   page_limit: 10
   acceptance:
     - 2018: 20.5
@@ -162,12 +161,12 @@
   
 - name: European Conference on Service-Oriented and Cloud Computing
   abbrv: ESOCC
-  url: http://esocc2018.disco.unimib.it/
-  edition: 7
-  deadline: "2018-05-07"
-  date_from: "2018-09-12"
-  date_to: "2018-09-14"
-  location: "Como, Italy"
+  url: https://esocc-conf.eu/
+  edition: 8
+  deadline: "2020-01-20"
+  date_from: "2020-09-28"
+  date_to: "2020-09-30"
+  location: "Heraklion, Crete, Greece,"
   page_limit: 15  
   
 - name: Workshop on Hot Topics in Cloud Computing
@@ -222,3 +221,14 @@
   location: "Rome, Itlay"
   acceptance:
   page_limit: 8
+
+- name: International Conference on Service-Oriented System Engineering
+  abbrv: SOSE
+  url: http://www.ieeesose.net/
+  edition: 15
+  deadline: "2021-03-01"
+  date_from: "2021-08-23"
+  date_to: "2021-08-26"
+  location: "Online hosted by Oxford Brookes University, UK"
+  acceptance:
+  page_limit: 10
