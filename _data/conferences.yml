@@ -18,21 +18,21 @@
 - name: Conference on Cloud Computing and Services Science
   abbrv: CLOSER
   url: http://closer.scitevents.org/
-  edition: 11
-  deadline: "2020-11-30"
-  date_from: "2021-04-28"
-  date_to: "2021-04-30"
+  edition: 12
+  deadline: "2021-11-30"
+  date_from: "2022-04-27"
+  date_to: "2022-04-29"
   location: "Prague, Czech Republic"
   acceptance: [14, 17, 18, 19, 11]
   page_limit: 10
 
 - name: International Conference on Service-Oriented Computing
   abbrv: ICSOC
-  url: https://icsoc2020.connect.rs/
-  edition: 18
-  deadline: "2020-05-31"
-  date_from: "2020-11-09"
-  date_to: "2020-11-12"
+  url: http://www.icsoc.org/
+  edition: 19
+  deadline: "2021-08-31"
+  date_from: "2021-11-22"
+  date_to: "2021-11-25"
   location: "Dubai, UAE"
   acceptance: []
   page_limit: 15
@@ -42,7 +42,7 @@
   abbrv: ECSA
   url: https://conf.researchr.org/home/ecsa-2021
   edition: 15
-  deadline: "2021-05-03"
+  deadline: "2021-05-13"
   date_from: "2021-09-13"
   date_to: "2021-09-17"
   location: "Växjö, Sweden"
@@ -100,7 +100,7 @@
   url: https://conferences.computer.org/IC2E/2021/
   edition: 9
   organization: IEEE
-  deadline: "2021-03-07"
+  deadline: "2021-04-12"
   date_from: "2021-10-04"
   date_to: "2021-10-08"
   location: "San Francisco, CA, USA"
@@ -108,11 +108,11 @@
 
 - name: Symposium on Cloud Computing
   abbrv: SoCC
-  url: http://acmsocc.github.io/2019/
-  edition: 8
-  deadline: "2019-06-03"
-  date_from: "2019-11-20"
-  date_to: "2019-11-23"
+  url: http://acmsocc.org/2021/
+  edition: 11
+  deadline: "2021-05-21"
+  date_from: "2021-11-01"
+  date_to: "2021-11-03"
   organization: ACM
   acceptance:
     - 2015: 22
@@ -125,13 +125,13 @@
 
 - name: Conference on Utility and Cloud Computing
   abbrv: UCC
-  edition: 13
-  url: https://www.cs.le.ac.uk/events/UCC2020/
-  deadline: "2020-08-31"
-  date_from: "2020-12-7"
-  date_to: "2020-12-10"
+  edition: 14
+  url: https://www.cs.le.ac.uk/events/UCC2021/
+  deadline: "2021-08-15"
+  date_from: "2021-12-06"
+  date_to: "2021-12-09"
   organization: IEEE/ACM
-  location: Leicester, UK
+  location: "Leicester, UK"
   page_limit: 10
   acceptance:
     - 2018: 20.5
@@ -145,18 +145,18 @@
 
 - name: Conference on Cloud Networking
   abbrv: CloudNet
-  url: http://cloudnet2019.ieee-cloudnet.org/
-  edition: 7
-  date_from: "2019-11-04"
-  date_to: "2019-11-06"
-  deadline: "2019-07-23"
+  url: https://cloudnet2020.ieee-cloudnet.org/
+  edition: 8
+  date_from: "2020-11-09"
+  date_to: "2020-11-11"
+  deadline: "2020-09-20"
   organization: IEEE
   acceptance:
     - 2015: 0
     - 2014: 0
     - 2013: 28
     - 2012: 40
-  location: Coimbra, Portugal
+  location: "Virtual Conference"
   page_limit: 6
   
 - name: European Conference on Service-Oriented and Cloud Computing
@@ -213,11 +213,11 @@
 
 - name: International Conference on Future Internet of Things and Cloud
   abbrv: FiCloud
-  url: http://www.ficloud.org/2020/
+  url: http://www.ficloud.org/2021
   edition: 8
-  deadline: "2020-03-12"
-  date_from: "2020-08-24"
-  date_to: "2020-08-26"
+  deadline: "2021-04-15"
+  date_from: "2021-08-23"
+  date_to: "2021-08-25"
   location: "Rome, Itlay"
   acceptance:
   page_limit: 8
