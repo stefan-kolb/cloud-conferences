@@ -51,12 +51,12 @@
   
 - name: International Conference on Software Architecture
   abbrv: ICSA
-  url: https://icsa-conferences.org/2021/
-  edition: 18
-  deadline: "2020-12-09"
-  date_from: "2021-03-22"
-  date_to: "2021-03-26"
-  location: "Stuttgart, Germany"
+  url: https://icsa-conferences.org/2022/
+  edition: 19
+  deadline: "2021-11-01"
+  date_from: "2022-03-12"
+  date_to: "2022-03-15"
+  location: "Honolulu, Hawaii (USA)"
   acceptance: []
   page_limit: 10
 
@@ -161,12 +161,12 @@
   
 - name: European Conference on Service-Oriented and Cloud Computing
   abbrv: ESOCC
-  url: https://esocc-conf.eu/
-  edition: 8
-  deadline: "2020-01-20"
-  date_from: "2020-09-28"
-  date_to: "2020-09-30"
-  location: "Heraklion, Crete, Greece,"
+  url: https://leucorea.de/veranstaltungen/9th-european-conference-on-service-oriented-and-cloud-computing/
+  edition: 9
+  deadline: "2021-01-01"
+  date_from: "2022-03-21"
+  date_to: "2022-03-25"
+  location: "Halle/Saale, Germany"
   page_limit: 15  
   
 - name: Workshop on Hot Topics in Cloud Computing
