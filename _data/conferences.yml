@@ -30,7 +30,7 @@
   abbrv: ICSOC
   url: http://www.icsoc.org/
   edition: 19
-  deadline: "2021-08-31"
+  deadline: "2021-08-13"
   date_from: "2021-11-22"
   date_to: "2021-11-25"
   location: "Dubai, UAE"
@@ -145,11 +145,11 @@
 
 - name: Conference on Cloud Networking
   abbrv: CloudNet
-  url: https://cloudnet2020.ieee-cloudnet.org/
-  edition: 8
-  date_from: "2020-11-09"
-  date_to: "2020-11-11"
-  deadline: "2020-09-20"
+  url: https://cloudnet2021.ieee-cloudnet.org/
+  edition: 10
+  date_from: "2020-11-08"
+  date_to: "2020-11-10"
+  deadline: "2020-08-02"
   organization: IEEE
   acceptance:
     - 2015: 0
