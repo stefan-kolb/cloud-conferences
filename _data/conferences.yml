@@ -147,9 +147,9 @@
   abbrv: CloudNet
   url: https://cloudnet2021.ieee-cloudnet.org/
   edition: 10
-  date_from: "2020-11-08"
-  date_to: "2020-11-10"
-  deadline: "2020-08-02"
+  date_from: "2021-11-08"
+  date_to: "2021-11-10"
+  deadline: "2021-08-02"
   organization: IEEE
   acceptance:
     - 2015: 0
