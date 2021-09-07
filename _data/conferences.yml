@@ -161,12 +161,12 @@
   
 - name: European Conference on Service-Oriented and Cloud Computing
   abbrv: ESOCC
-  url: https://leucorea.de/veranstaltungen/9th-european-conference-on-service-oriented-and-cloud-computing/
+  url: https://esocc-conf.eu/
   edition: 9
-  deadline: "2021-01-01"
-  date_from: "2022-03-21"
-  date_to: "2022-03-25"
-  location: "Halle/Saale, Germany"
+  deadline: "2021-10-31"
+  date_from: "2022-03-22"
+  date_to: "2022-03-24"
+  location: "Lutherstadt Wittenberg, Germany"
   page_limit: 15  
   
 - name: Workshop on Hot Topics in Cloud Computing
