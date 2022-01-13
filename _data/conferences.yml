@@ -1,19 +1,19 @@
 - name: Conference on Cloud Computing
   abbrv: CLOUD
-  url: https://conferences.computer.org/cloud/2021/
-  edition: 14
+  url: https://conferences.computer.org/cloud/2022/
+  edition: 15
   organization: IEEE
-  deadline: "2021-04-15"
-  date_from: "2021-09-05"
-  date_to: "2021-09-10"
-  location: "Online virtual congress"
+  deadline: "2022-03-01"
+  date_from: "2022-07-10"
+  date_to: "2022-07-16"
+  location: "Barcelona, Spain"
   acceptance:
     - 2015: 15
     - 2014: 19
     - 2013: 17
     - 2012: 17
     - 2011: 18
-  page_limit: 8
+  page_limit: 10
 
 - name: Conference on Cloud Computing and Services Science
   abbrv: CLOSER
