@@ -29,11 +29,11 @@
 - name: International Conference on Service-Oriented Computing
   abbrv: ICSOC
   url: http://www.icsoc.org/
-  edition: 19
-  deadline: "2021-08-13"
-  date_from: "2021-11-22"
-  date_to: "2021-11-25"
-  location: "Dubai, UAE"
+  edition: 20
+  deadline: "2022-06-30"
+  date_from: "2022-11-29"
+  date_to: "2022-12-02"
+  location: "Sevilla, Spain"
   acceptance: []
   page_limit: 15
 
@@ -48,7 +48,7 @@
   location: "Växjö, Sweden"
   acceptance: []
   page_limit: 16
-  
+
 - name: International Conference on Software Architecture
   abbrv: ICSA
   url: https://icsa-conferences.org/2022/
@@ -97,14 +97,14 @@
 
 - name: Conference on Cloud Engineering
   abbrv: IC2E
-  url: https://conferences.computer.org/IC2E/2021/
-  edition: 9
+  url: https://conferences.computer.org/IC2E/2022/
+  edition: 10
   organization: IEEE
-  deadline: "2021-04-12"
-  date_from: "2021-10-04"
-  date_to: "2021-10-08"
+  deadline: "2022-04-01"
+  date_from: "2022-09-26"
+  date_to: "2022-09-30"
   location: "San Francisco, CA, USA"
-  page_limit: 10
+  page_limit: 9
 
 - name: Symposium on Cloud Computing
   abbrv: SoCC
@@ -158,7 +158,7 @@
     - 2012: 40
   location: "Virtual Conference"
   page_limit: 6
-  
+
 - name: European Conference on Service-Oriented and Cloud Computing
   abbrv: ESOCC
   url: https://esocc-conf.eu/
@@ -167,8 +167,8 @@
   date_from: "2022-03-22"
   date_to: "2022-03-24"
   location: "Lutherstadt Wittenberg, Germany"
-  page_limit: 15  
-  
+  page_limit: 15
+
 - name: Workshop on Hot Topics in Cloud Computing
   abbrv: HotCloud
   url: https://www.usenix.org/conference/hotcloud20
@@ -179,7 +179,7 @@
   date_to: "2020-07-13"
   location: "BOSTON, MA, USA"
   page_limit: 5
-  
+
 - name: Symposium on Secure Virtual Infrastructures – Cloud and Trusted Computing
   abbrv: C&TC
   url: http://www.otmconferences.org/index.php/conferences/ctc-2019
@@ -188,7 +188,7 @@
   date_from: "2019-10-21"
   date_to: "2019-10-22"
   location: "Rhodes, Greece"
-  page_limit: 18  
+  page_limit: 18
 
 - name: Hot Topics in Cloud Computing Performance
   abbrv: HotCloudPerf
@@ -208,7 +208,7 @@
   date_from: "2020-04-27"
   date_to: "2020-04-30"
   location: "Beijing, China"
-  acceptance: 
+  acceptance:
   page_limit: 10
 
 - name: International Conference on Future Internet of Things and Cloud
