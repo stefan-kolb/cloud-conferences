@@ -222,13 +222,13 @@
   acceptance:
   page_limit: 8
 
-- name: International Conference on Service-Oriented System Engineering
-  abbrv: SOSE
-  url: http://www.ieeesose.net/
-  edition: 15
-  deadline: "2021-03-01"
-  date_from: "2021-08-23"
-  date_to: "2021-08-26"
-  location: "Online hosted by Oxford Brookes University, UK"
+- name: IEEE International Conference on Service-Oriented System Engineering
+  abbrv: IEEE SOSE
+  url: http://ieeesose.com/
+  edition: 16
+  deadline: "2022-05-08"
+  date_from: "2022-08-15"
+  date_to: "2022-08-18"
+  location: "San Francisco, CA, USA"
   acceptance:
   page_limit: 10
