@@ -29,11 +29,11 @@
 - name: International Conference on Service-Oriented Computing
   abbrv: ICSOC
   url: http://www.icsoc.org/
-  edition: 19
-  deadline: "2021-08-13"
-  date_from: "2021-11-22"
-  date_to: "2021-11-25"
-  location: "Dubai, UAE"
+  edition: 20
+  deadline: "2022-06-30"
+  date_from: "2022-11-29"
+  date_to: "2022-12-02"
+  location: "Sevilla, Spain"
   acceptance: []
   page_limit: 15
 
