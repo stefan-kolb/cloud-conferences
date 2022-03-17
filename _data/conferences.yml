@@ -40,12 +40,12 @@
 
 - name: European Conference on Software Architectures
   abbrv: ECSA
-  url: https://conf.researchr.org/home/ecsa-2021
-  edition: 15
-  deadline: "2021-05-13"
-  date_from: "2021-09-13"
-  date_to: "2021-09-17"
-  location: "Växjö, Sweden"
+  url: https://conf.researchr.org/home/ecsa-2022
+  edition: 16
+  deadline: "2022-05-13"
+  date_from: "2022-09-19"
+  date_to: "2022-09-23"
+  location: "Prague, Czech Republic"
   acceptance: []
   page_limit: 16
 
