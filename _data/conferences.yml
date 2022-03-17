@@ -145,19 +145,19 @@
 
 - name: Conference on Cloud Networking
   abbrv: CloudNet
-  url: https://cloudnet2021.ieee-cloudnet.org/
-  edition: 10
-  date_from: "2021-11-08"
-  date_to: "2021-11-10"
-  deadline: "2021-08-02"
+  url: https://cloudnet2022.ieee-cloudnet.org/
+  edition: 11
+  deadline: "2022-06-20"
+  date_from: "2022-11-07"
+  date_to: "2022-11-10"
   organization: IEEE
   acceptance:
     - 2015: 0
     - 2014: 0
     - 2013: 28
     - 2012: 40
-  location: "Virtual Conference"
-  page_limit: 6
+  location: "Paris, France"
+  page_limit: 8
 
 - name: European Conference on Service-Oriented and Cloud Computing
   abbrv: ESOCC
