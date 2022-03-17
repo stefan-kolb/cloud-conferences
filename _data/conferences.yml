@@ -232,3 +232,14 @@
   location: "San Francisco, CA, USA"
   acceptance:
   page_limit: 10
+
+- name: IEEE International Conference on Joint Cloud Computing
+  abbrv: IEEE JCC
+  url: https://ieeejcc.org/
+  edition: 13
+  deadline: "2022-05-08"
+  date_from: "2022-08-15"
+  date_to: "2022-08-18"
+  location: "San Francisco, CA, USA"
+  acceptance:
+  page_limit: 10
