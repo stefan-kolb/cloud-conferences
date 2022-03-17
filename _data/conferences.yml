@@ -97,14 +97,14 @@
 
 - name: Conference on Cloud Engineering
   abbrv: IC2E
-  url: https://conferences.computer.org/IC2E/2021/
-  edition: 9
+  url: https://conferences.computer.org/IC2E/2022/
+  edition: 10
   organization: IEEE
-  deadline: "2021-04-12"
-  date_from: "2021-10-04"
-  date_to: "2021-10-08"
+  deadline: "2022-04-01"
+  date_from: "2022-09-26"
+  date_to: "2022-09-30"
   location: "San Francisco, CA, USA"
-  page_limit: 10
+  page_limit: 9
 
 - name: Symposium on Cloud Computing
   abbrv: SoCC
