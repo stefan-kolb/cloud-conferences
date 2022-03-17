@@ -200,10 +200,11 @@
   location: "Edmonton, Canada"
   page_limit: 6
 
-- name: IEEE International Conference on Computer Communications
-  abbrv: IEEE INFOCOM
+- name: International Conference on Computer Communications
+  abbrv: INFOCOM
   url: https://infocom2020.ieee-infocom.org/
   edition: 14
+  organization: IEEE
   deadline: "2019-07-24"
   date_from: "2020-04-27"
   date_to: "2020-04-30"
@@ -222,10 +223,11 @@
   acceptance:
   page_limit: 8
 
-- name: IEEE International Conference on Service-Oriented System Engineering
-  abbrv: IEEE SOSE
+- name: International Conference on Service-Oriented System Engineering
+  abbrv: SOSE
   url: http://ieeesose.com/
   edition: 16
+  organization: IEEE
   deadline: "2022-05-08"
   date_from: "2022-08-15"
   date_to: "2022-08-18"
@@ -233,10 +235,11 @@
   acceptance:
   page_limit: 10
 
-- name: IEEE International Conference on Joint Cloud Computing
-  abbrv: IEEE JCC
+- name: International Conference on Joint Cloud Computing
+  abbrv: JCC
   url: https://ieeejcc.org/
   edition: 13
+  organization: IEEE
   deadline: "2022-05-08"
   date_from: "2022-08-15"
   date_to: "2022-08-18"
