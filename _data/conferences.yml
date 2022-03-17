@@ -3,10 +3,10 @@
   url: https://conferences.computer.org/cloud/2022/
   edition: 15
   organization: IEEE
-  deadline: "2022-03-01"
+  deadline: "2022-04-01"
   date_from: "2022-07-10"
   date_to: "2022-07-16"
-  location: "Barcelona, Spain"
+  location: "Barcelona, Spain (hybrid)"
   acceptance:
     - 2015: 15
     - 2014: 19
@@ -40,12 +40,12 @@
 
 - name: European Conference on Software Architectures
   abbrv: ECSA
-  url: https://conf.researchr.org/home/ecsa-2021
-  edition: 15
-  deadline: "2021-05-13"
-  date_from: "2021-09-13"
-  date_to: "2021-09-17"
-  location: "Växjö, Sweden"
+  url: https://conf.researchr.org/home/ecsa-2022
+  edition: 16
+  deadline: "2022-05-13"
+  date_from: "2022-09-19"
+  date_to: "2022-09-23"
+  location: "Prague, Czech Republic"
   acceptance: []
   page_limit: 16
 
@@ -145,19 +145,19 @@
 
 - name: Conference on Cloud Networking
   abbrv: CloudNet
-  url: https://cloudnet2021.ieee-cloudnet.org/
-  edition: 10
-  date_from: "2021-11-08"
-  date_to: "2021-11-10"
-  deadline: "2021-08-02"
+  url: https://cloudnet2022.ieee-cloudnet.org/
+  edition: 11
+  deadline: "2022-06-20"
+  date_from: "2022-11-07"
+  date_to: "2022-11-10"
   organization: IEEE
   acceptance:
     - 2015: 0
     - 2014: 0
     - 2013: 28
     - 2012: 40
-  location: "Virtual Conference"
-  page_limit: 6
+  location: "Paris, France"
+  page_limit: 8
 
 - name: European Conference on Service-Oriented and Cloud Computing
   abbrv: ESOCC
@@ -193,17 +193,18 @@
 - name: Hot Topics in Cloud Computing Performance
   abbrv: HotCloudPerf
   url: https://hotcloudperf.spec.org
-  edition: 2
-  deadline: "2020-02-5"
-  date_from: "2020-04-21"
-  date_to: "2020-04-21"
-  location: "Edmonton, Canada"
+  edition: 5
+  deadline: "2022-01-27"
+  date_from: "2022-04-09"
+  date_to: "2022-04-09"
+  location: "Virtual Conference"
   page_limit: 6
 
-- name: IEEE International Conference on Computer Communications
-  abbrv: IEEE INFOCOM
+- name: International Conference on Computer Communications
+  abbrv: INFOCOM
   url: https://infocom2020.ieee-infocom.org/
   edition: 14
+  organization: IEEE
   deadline: "2019-07-24"
   date_from: "2020-04-27"
   date_to: "2020-04-30"
@@ -218,17 +219,30 @@
   deadline: "2021-04-15"
   date_from: "2021-08-23"
   date_to: "2021-08-25"
-  location: "Rome, Itlay"
+  location: "Rome, Italy"
   acceptance:
   page_limit: 8
 
 - name: International Conference on Service-Oriented System Engineering
   abbrv: SOSE
-  url: http://www.ieeesose.net/
-  edition: 15
-  deadline: "2021-03-01"
-  date_from: "2021-08-23"
-  date_to: "2021-08-26"
-  location: "Online hosted by Oxford Brookes University, UK"
+  url: http://ieeesose.com/
+  edition: 16
+  organization: IEEE
+  deadline: "2022-05-08"
+  date_from: "2022-08-15"
+  date_to: "2022-08-18"
+  location: "San Francisco, CA, USA"
+  acceptance:
+  page_limit: 10
+
+- name: International Conference on Joint Cloud Computing
+  abbrv: JCC
+  url: https://ieeejcc.org/
+  edition: 13
+  organization: IEEE
+  deadline: "2022-05-08"
+  date_from: "2022-08-15"
+  date_to: "2022-08-18"
+  location: "San Francisco, CA, USA"
   acceptance:
   page_limit: 10
