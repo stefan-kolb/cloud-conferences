@@ -209,7 +209,6 @@
   date_from: "2020-04-27"
   date_to: "2020-04-30"
   location: "Beijing, China"
-  acceptance:
   page_limit: 10
 
 - name: International Conference on Future Internet of Things and Cloud
@@ -220,7 +219,6 @@
   date_from: "2021-08-23"
   date_to: "2021-08-25"
   location: "Rome, Italy"
-  acceptance:
   page_limit: 8
 
 - name: International Conference on Service-Oriented System Engineering
@@ -232,7 +230,6 @@
   date_from: "2022-08-15"
   date_to: "2022-08-18"
   location: "San Francisco, CA, USA"
-  acceptance:
   page_limit: 10
 
 - name: International Conference on Joint Cloud Computing
@@ -244,5 +241,15 @@
   date_from: "2022-08-15"
   date_to: "2022-08-18"
   location: "San Francisco, CA, USA"
-  acceptance:
   page_limit: 10
+
+- name: European Conference on Computer Systems
+  abbrv: EuroSys
+  url: https://2023.eurosys.org/
+  edition: 18
+  organization: ACM
+  deadline: "2022-10-19"
+  date_from: "2023-05-09"
+  date_to: "2023-05-12"
+  location: "Rome, Italy"
+  page_limit: 12
