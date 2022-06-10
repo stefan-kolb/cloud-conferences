@@ -18,10 +18,10 @@
 - name: Conference on Cloud Computing and Services Science
   abbrv: CLOSER
   url: http://closer.scitevents.org/
-  edition: 12
-  deadline: "2021-11-30"
-  date_from: "2022-04-27"
-  date_to: "2022-04-29"
+  edition: 13
+  deadline: "2022-11-18"
+  date_from: "2023-04-26"
+  date_to: "2023-04-28"
   location: "Prague, Czech Republic"
   acceptance: [14, 17, 18, 19, 11]
   page_limit: 10
@@ -125,13 +125,13 @@
 
 - name: Conference on Utility and Cloud Computing
   abbrv: UCC
-  edition: 14
-  url: https://www.cs.le.ac.uk/events/UCC2021/
-  deadline: "2021-08-15"
-  date_from: "2021-12-06"
-  date_to: "2021-12-09"
+  edition: 15
+  url: https://ucc-conference.org/
+  deadline: "2022-08-08"
+  date_from: "2022-12-06"
+  date_to: "2022-12-09"
   organization: IEEE/ACM
-  location: "Leicester, UK"
+  location: "Portland, Oregon, USA"
   page_limit: 10
   acceptance:
     - 2018: 20.5
