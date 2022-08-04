@@ -51,12 +51,12 @@
 
 - name: International Conference on Software Architecture
   abbrv: ICSA
-  url: https://icsa-conferences.org/2022/
+  url: https://icsa-conferences.org/2023/
   edition: 19
-  deadline: "2021-11-01"
-  date_from: "2022-03-12"
-  date_to: "2022-03-15"
-  location: "Honolulu, Hawaii (USA)"
+  deadline: "2022-10-28"
+  date_from: "2023-03-01"
+  date_to: "2023-03-01"
+  location: "L'Aquila, Italy"
   acceptance: []
   page_limit: 10
 
