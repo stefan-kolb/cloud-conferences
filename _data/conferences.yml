@@ -253,3 +253,14 @@
   date_to: "2023-05-12"
   location: "Rome, Italy"
   page_limit: 12
+
+- name: International Conference on Cooperative Information Systems
+  abbrv: CoopIS
+  url: https://coopisconference.org/
+  edition: 28
+  deadline: "2022-06-15"
+  date_from: "2022-10-04"
+  date_to: "2022-10-07"
+  location: "Bozen-Bolzano, Italy"
+  page_limit: 18
+  
