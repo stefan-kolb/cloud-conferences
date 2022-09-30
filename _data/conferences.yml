@@ -79,11 +79,11 @@
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
   abbrv: CCGrid
-  url: https://fcrlab.unime.it/ccgrid22/
-  edition: 22
-  deadline: "2021-11-24"
-  date_from: "2022-05-16"
-  date_to: "2022-05-19"
+  url: http://cds.iisc.ac.in/faculty/simmhan/ccgrid2023/
+  edition: 23
+  deadline: "2022-11-25"
+  date_from: "2023-05-01"
+  date_to: "2023-05-04"
   organization: IEEE/ACM
   acceptance:
     - 2015: 26
@@ -91,7 +91,7 @@
     - 2013: 22
     - 2012: 28
     - 2011: 29
-  location: Taormina, Sicily, Italy
+  location: Bangalore, India
   acceptance: [26, 19, 22, 28, 29]
   page_limit: 10
 
