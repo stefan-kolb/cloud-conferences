@@ -1,12 +1,12 @@
 - name: Conference on Cloud Computing
   abbrv: CLOUD
-  url: https://conferences.computer.org/cloud/2022/
-  edition: 15
+  url: https://conferences.computer.org/cloud/2023/
+  edition: 16
   organization: IEEE
-  deadline: "2022-04-01"
-  date_from: "2022-07-10"
-  date_to: "2022-07-16"
-  location: "Barcelona, Spain (hybrid)"
+  deadline: "2023-02-12"
+  date_from: "2023-07-02"
+  date_to: "2023-07-08"
+  location: "Chicago, Illinois, USA"
   acceptance:
     - 2015: 15
     - 2014: 19
@@ -213,12 +213,12 @@
 
 - name: International Conference on Future Internet of Things and Cloud
   abbrv: FiCloud
-  url: http://www.ficloud.org/2021
-  edition: 8
-  deadline: "2021-04-15"
-  date_from: "2021-08-23"
-  date_to: "2021-08-25"
-  location: "Rome, Italy"
+  url: https://www.ficloud.org/2023/
+  edition: 10
+  deadline: "2023-03-10"
+  date_from: "2023-08-14"
+  date_to: "2023-08-16"
+  location: "Marrakesh, Morocco (hybrid)"
   page_limit: 8
 
 - name: International Conference on Service-Oriented System Engineering
