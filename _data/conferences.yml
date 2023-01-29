@@ -224,12 +224,12 @@
 - name: International Conference on Service-Oriented System Engineering
   abbrv: SOSE
   url: http://ieeesose.com/
-  edition: 16
+  edition: 17
   organization: IEEE
-  deadline: "2022-05-08"
-  date_from: "2022-08-15"
-  date_to: "2022-08-18"
-  location: "San Francisco, CA, USA"
+  deadline: "2023-04-07"
+  date_from: "2023-07-17"
+  date_to: "2023-07-20"
+  location: "Athens, Greece"
   page_limit: 10
 
 - name: International Conference on Joint Cloud Computing
