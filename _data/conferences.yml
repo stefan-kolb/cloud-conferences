@@ -202,13 +202,13 @@
 
 - name: International Conference on Computer Communications
   abbrv: INFOCOM
-  url: https://infocom2020.ieee-infocom.org/
-  edition: 14
+  url: https://infocom2023.ieee-infocom.org/
+  edition: 18
   organization: IEEE
-  deadline: "2019-07-24"
-  date_from: "2020-04-27"
-  date_to: "2020-04-30"
-  location: "Beijing, China"
+  deadline: "2022-07-25"
+  date_from: "2023-05-17"
+  date_to: "2023-05-20"
+  location: "New York, USA"
   page_limit: 10
 
 - name: International Conference on Future Internet of Things and Cloud
