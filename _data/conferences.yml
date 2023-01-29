@@ -193,11 +193,11 @@
 - name: Hot Topics in Cloud Computing Performance
   abbrv: HotCloudPerf
   url: https://hotcloudperf.spec.org
-  edition: 5
-  deadline: "2022-01-27"
-  date_from: "2022-04-09"
-  date_to: "2022-04-09"
-  location: "Virtual Conference"
+  edition: 6
+  deadline: "2023-01-24"
+  date_from: "2023-04-16"
+  date_to: "2023-04-16"
+  location: "Coimbra, Portugal"
   page_limit: 6
 
 - name: International Conference on Computer Communications
