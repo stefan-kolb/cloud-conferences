@@ -169,27 +169,6 @@
   location: "Larnaca, Cyprus"
   page_limit: 15
 
-- name: Workshop on Hot Topics in Cloud Computing
-  abbrv: HotCloud
-  url: https://www.usenix.org/conference/hotcloud20
-  edition: 12
-  organization: USENIX
-  deadline: "2020-03-17"
-  date_from: "2020-07-13"
-  date_to: "2020-07-13"
-  location: "BOSTON, MA, USA"
-  page_limit: 5
-
-- name: Symposium on Secure Virtual Infrastructures – Cloud and Trusted Computing
-  abbrv: C&TC
-  url: http://www.otmconferences.org/index.php/conferences/ctc-2019
-  edition: 8
-  deadline: "2019-07-15"
-  date_from: "2019-10-21"
-  date_to: "2019-10-22"
-  location: "Rhodes, Greece"
-  page_limit: 18
-
 - name: Hot Topics in Cloud Computing Performance
   abbrv: HotCloudPerf
   url: https://hotcloudperf.spec.org
@@ -263,3 +242,26 @@
   date_to: "2022-10-07"
   location: "Bozen-Bolzano, Italy"
   page_limit: 18
+
+# NOTE: The following conferences are either discontinued or their names were changed.
+
+# - name: Workshop on Hot Topics in Cloud Computing
+#   abbrv: HotCloud
+#   url: https://www.usenix.org/conference/hotcloud20
+#   edition: 12
+#   organization: USENIX
+#   deadline: "2020-03-17"
+#   date_from: "2020-07-13"
+#   date_to: "2020-07-13"
+#   location: "BOSTON, MA, USA"
+#   page_limit: 5
+
+# - name: Symposium on Secure Virtual Infrastructures – Cloud and Trusted Computing
+#   abbrv: C&TC
+#   url: http://www.otmconferences.org/index.php/conferences/ctc-2019
+#   edition: 8
+#   deadline: "2019-07-15"
+#   date_from: "2019-10-21"
+#   date_to: "2019-10-22"
+#   location: "Rhodes, Greece"
+#   page_limit: 18
