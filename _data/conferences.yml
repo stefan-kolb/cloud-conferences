@@ -234,14 +234,14 @@
 
 - name: International Conference on Joint Cloud Computing
   abbrv: JCC
-  url: https://ieeejcc.org/
-  edition: 13
+  url: https://ieeejcc.com/
+  edition: 14
   organization: IEEE
-  deadline: "2022-05-08"
-  date_from: "2022-08-15"
-  date_to: "2022-08-18"
-  location: "San Francisco, CA, USA"
-  page_limit: 10
+  deadline: "2023-03-31"
+  date_from: "2023-07-17"
+  date_to: "2023-07-20"
+  location: "Athens, Greece"
+  page_limit: 8
 
 - name: European Conference on Computer Systems
   abbrv: EuroSys
