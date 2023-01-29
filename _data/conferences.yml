@@ -161,12 +161,12 @@
 
 - name: European Conference on Service-Oriented and Cloud Computing
   abbrv: ESOCC
-  url: https://esocc-conf.eu/
-  edition: 9
-  deadline: "2021-10-31"
-  date_from: "2022-03-22"
-  date_to: "2022-03-24"
-  location: "Lutherstadt Wittenberg, Germany"
+  url: https://cyprusconferences.org/esocc2023/
+  edition: 10
+  deadline: "2023-06-04"
+  date_from: "2023-10-24"
+  date_to: "2023-10-26"
+  location: "Larnaca, Cyprus"
   page_limit: 15
 
 - name: Workshop on Hot Topics in Cloud Computing
