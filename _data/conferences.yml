@@ -52,7 +52,7 @@
   abbrv: ICSA
   url: https://icsa-conferences.org/2024/
   edition: 21
-  deadline: "2022-10-28"
+  deadline: "2023-11-24"
   date_from: "2024-06-04"
   date_to: "2024-06-08"
   location: "Hyderabad, India"
@@ -180,13 +180,13 @@
 
 - name: International Conference on Computer Communications
   abbrv: INFOCOM
-  url: https://infocom2023.ieee-infocom.org/
-  edition: 18
+  url: https://infocom2024.ieee-infocom.org/
+  edition: 19
   organization: IEEE
-  deadline: "2022-07-25"
-  date_from: "2023-05-17"
-  date_to: "2023-05-20"
-  location: "New York, USA"
+  deadline: "2023-07-31"
+  date_from: "2024-05-20"
+  date_to: "2024-05-23"
+  location: "Vancouver, Canada"
   page_limit: 10
 
 - name: International Conference on Future Internet of Things and Cloud
@@ -223,13 +223,13 @@
 
 - name: European Conference on Computer Systems
   abbrv: EuroSys
-  url: https://2023.eurosys.org/
-  edition: 18
+  url: https://2024.eurosys.org/
+  edition: 19
   organization: ACM
-  deadline: "2022-10-19"
-  date_from: "2023-05-09"
-  date_to: "2023-05-12"
-  location: "Rome, Italy"
+  deadline: "2023-10-19"
+  date_from: "2024-04-22"
+  date_to: "2024-04-25"
+  location: "Athens, Greece"
   page_limit: 12
 
 - name: International Conference on Cooperative Information Systems
