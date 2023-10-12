@@ -78,11 +78,11 @@
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
   abbrv: CCGrid
-  url: http://cds.iisc.ac.in/faculty/simmhan/ccgrid2023/
-  edition: 23
-  deadline: "2022-11-25"
-  date_from: "2023-05-01"
-  date_to: "2023-05-04"
+  url: https://2024.ccgrid-conference.org/
+  edition: 24
+  deadline: "2023-11-27"
+  date_from: "2024-05-06"
+  date_to: "2024-05-09"
   organization: IEEE/ACM
   acceptance:
     - 2015: 26
@@ -90,19 +90,19 @@
     - 2013: 22
     - 2012: 28
     - 2011: 29
-  location: Bangalore, India
+  location: Philadelphia, USA
   acceptance: [26, 19, 22, 28, 29]
   page_limit: 10
 
 - name: Conference on Cloud Engineering
   abbrv: IC2E
-  url: https://conferences.computer.org/IC2E/2023/
-  edition: 11
+  url: https://conferences.computer.org/IC2E/2024/
+  edition: 12
   organization: IEEE
-  deadline: "2023-03-23"
-  date_from: "2023-09-25"
-  date_to: "2023-09-29"
-  location: "Boston, Massachusetts, USA"
+  deadline: "2024-03-01"
+  date_from: "2024-09-24"
+  date_to: "2024-09-27"
+  location: "Paphos, Cyprus"
   page_limit: 9
 
 - name: Symposium on Cloud Computing
@@ -171,11 +171,11 @@
 - name: Hot Topics in Cloud Computing Performance
   abbrv: HotCloudPerf
   url: https://hotcloudperf.spec.org
-  edition: 6
-  deadline: "2023-01-24"
-  date_from: "2023-04-16"
-  date_to: "2023-04-16"
-  location: "Coimbra, Portugal"
+  edition: 7
+  deadline: "2024-01-24"
+  date_from: "2024-04-16"
+  date_to: "2024-04-16"
+  location: "London, UK"
   page_limit: 6
 
 - name: International Conference on Computer Communications
