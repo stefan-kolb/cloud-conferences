@@ -19,6 +19,7 @@
   abbrv: CLOSER
   url: http://closer.scitevents.org/
   edition: 14
+  organization: INSTICC
   deadline: "2024-01-25"
   date_from: "2024-05-02"
   date_to: "2024-05-04"
@@ -61,11 +62,11 @@
 
 - name: Conference on Cloud Computing Technology and Science
   abbrv: CloudCom
-  url: https://www.2023.cloudcom.org/
-  edition: 14
-  date_from: "2023-12-04"
-  date_to: "2023-12-06"
-  deadline: "2023-07-01"
+  url: https://www.cloudcom2024.org/
+  edition: 15
+  date_from: "2024-12-09"
+  date_to: "2024-12-11"
+  deadline: "2024-07-19"
   organization: IEEE
   acceptance:
     - 2015: 0
@@ -73,7 +74,7 @@
     - 2013: 18
     - 2012: 18
     - 2011: 24
-  location: "Napoli, Italy"
+  location: "Abu Dhabi, United Arab Emirates"
   page_limit: 8
 
 - name: Symposium on Cluster, Cloud, and Grid Computing
@@ -124,13 +125,13 @@
 
 - name: Conference on Utility and Cloud Computing
   abbrv: UCC
-  edition: 16
-  url: https://ucc-conference.org/
-  deadline: "2023-08-03"
-  date_from: "2023-12-04"
-  date_to: "2023-12-07"
+  edition: 17
+  url: https://www.uccbdcat2024.org
+  deadline: "2024-08-10"
+  date_from: "2024-12-16"
+  date_to: "2024-12-19"
   organization: IEEE/ACM
-  location: "Taormina (Messina), Italy"
+  location: "Sharjah, United Arab Emirates"
   page_limit: 10
   acceptance:
     - 2018: 20.5
@@ -234,12 +235,13 @@
 
 - name: International Conference on Cooperative Information Systems
   abbrv: CoopIS
-  url: https://coopisconference.org/
-  edition: 29
-  deadline: "2023-07-01"
-  date_from: "2023-10-30"
-  date_to: "2023-11-03"
-  location: "Groningen, The Netherlands"
+  url: https://coopis.scitevents.org/
+  edition: 30
+  organization: INSTICC
+  deadline: "2024-06-03"
+  date_from: "2024-11-19"
+  date_to: "2024-11-21"
+  location: "Porto, Portugal"
   page_limit: 18
 
 # NOTE: The following conferences are either discontinued or their names were changed.
