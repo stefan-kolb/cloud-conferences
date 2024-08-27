@@ -18,23 +18,23 @@
 - name: Conference on Cloud Computing and Services Science
   abbrv: CLOSER
   url: http://closer.scitevents.org/
-  edition: 14
+  edition: 15
   organization: INSTICC
-  deadline: "2024-01-25"
-  date_from: "2024-05-02"
-  date_to: "2024-05-04"
-  location: "Angers, France"
+  deadline: "2024-10-29"
+  date_from: "2024-04-01"
+  date_to: "2024-04-03"
+  location: "Porto, Portugal"
   acceptance: [14, 17, 18, 19, 11]
   page_limit: 10
 
 - name: International Conference on Service-Oriented Computing
   abbrv: ICSOC
-  url: http://www.icsoc.org/
-  edition: 21
-  deadline: "2023-07-03"
-  date_from: "2023-11-28"
-  date_to: "2023-12-01"
-  location: "Rome, Italy"
+  url: https://icsoc2024.redcad.tn/
+  edition: 22
+  deadline: "2024-07-10"
+  date_from: "2024-12-03"
+  date_to: "2024-12-06"
+  location: "Tunis, Tunisia"
   acceptance: []
   page_limit: 15
 
@@ -51,12 +51,12 @@
 
 - name: International Conference on Software Architecture
   abbrv: ICSA
-  url: https://icsa-conferences.org/2024/
-  edition: 21
-  deadline: "2023-11-24"
-  date_from: "2024-06-04"
-  date_to: "2024-06-08"
-  location: "Hyderabad, India"
+  url: https://conf.researchr.org/home/icsa-2025
+  edition: 22
+  deadline: "2024-10-28"
+  date_from: "2025-03-31"
+  date_to: "2025-04-04"
+  location: "Odense, Denmark"
   acceptance: []
   page_limit: 10
 
@@ -145,28 +145,28 @@
 
 - name: Conference on Cloud Networking
   abbrv: CloudNet
-  url: https://cloudnet2023.ieee-cloudnet.org/
-  edition: 11
-  deadline: "2023-06-23"
-  date_from: "2023-11-01"
-  date_to: "2023-11-03"
+  url: https://cloudnet2024.ieee-cloudnet.org/
+  edition: 12
+  deadline: "2024-08-30"
+  date_from: "2024-11-27"
+  date_to: "2024-11-29"
   organization: IEEE
   acceptance:
     - 2015: 0
     - 2014: 0
     - 2013: 28
     - 2012: 40
-  location: "New York Area, USA"
+  location: "Rio de Janeiro, Brazil"
   page_limit: 8
 
 - name: European Conference on Service-Oriented and Cloud Computing
   abbrv: ESOCC
-  url: https://cyprusconferences.org/esocc2023/
-  edition: 10
-  deadline: "2023-06-04"
-  date_from: "2023-10-24"
-  date_to: "2023-10-26"
-  location: "Larnaca, Cyprus"
+  url: https://conf.researchr.org/home/esocc-2025
+  edition: 12
+  deadline: "2024-09-07"
+  date_from: "2025-02-20"
+  date_to: "2025-02-21"
+  location: "Bolzano/Bozen, Italy"
   page_limit: 15
 
 - name: Hot Topics in Cloud Computing Performance
