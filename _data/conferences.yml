@@ -1,12 +1,12 @@
 - name: Conference on Cloud Computing
   abbrv: CLOUD
-  url: https://cloud.conferences.computer.org/2024/
-  edition: 17
+  url: https://services.conferences.computer.org/2025/cloud/
+  edition: 18
   organization: IEEE
-  deadline: "2024-03-17"
-  date_from: "2024-07-07"
-  date_to: "2024-07-13"
-  location: "Shenzen, China"
+  deadline: "2025-02-24"
+  date_from: "2025-07-07"
+  date_to: "2025-07-12"
+  location: "Helsinki, Finland"
   acceptance:
     - 2015: 15
     - 2014: 19
@@ -20,9 +20,9 @@
   url: http://closer.scitevents.org/
   edition: 15
   organization: INSTICC
-  deadline: "2024-10-29"
-  date_from: "2024-04-01"
-  date_to: "2024-04-03"
+  deadline: "2025-01-03"
+  date_from: "2025-04-01"
+  date_to: "2025-04-03"
   location: "Porto, Portugal"
   acceptance: [14, 17, 18, 19, 11]
   page_limit: 10
@@ -40,12 +40,12 @@
 
 - name: European Conference on Software Architectures
   abbrv: ECSA
-  url: https://conf.researchr.org/home/ecsa-2024
-  edition: 18
-  deadline: "2024-04-11"
-  date_from: "2024-09-02"
-  date_to: "2024-09-06"
-  location: "Luxembourg, Luxembourg"
+  url: https://conf.researchr.org/home/ecsa-2025
+  edition: 19
+  deadline: "2025-03-14"
+  date_from: "2025-09-15"
+  date_to: "2025-09-19"
+  location: "Limassol, Cyprus"
   acceptance: []
   page_limit: 16
 
@@ -202,13 +202,13 @@
 
 - name: International Conference on Service-Oriented System Engineering
   abbrv: SOSE
-  url: http://ieeesose.com/
-  edition: 18
+  url: https://conf.researchr.org/track/cisose-2025/sose-2025
+  edition: 19
   organization: IEEE
-  deadline: "2024-04-01"
-  date_from: "2024-07-15"
-  date_to: "2024-07-18"
-  location: "Shanghai, China"
+  deadline: "2025-04-01"
+  date_from: "2025-07-21"
+  date_to: "2025-07-24"
+  location: "Tucson, Arizona, USA"
   page_limit: 10
 
 - name: International Conference on Joint Cloud Computing
